@@ -10,3 +10,4 @@ trojan://299635e0-f3b9-11ed-9a93-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.ne
 trojan://37eb15e0-f3b9-11ed-91c0-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#kencana3
 trojan://44358160-f3b9-11ed-95b9-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#kencana4
 trojan://500ebf00-f3b9-11ed-bfce-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#kencana5
+vmess://eyJhZGQiOiJpLm91dGhlci5wdyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZHluYW1pYy1zZzNiLm9iZnMueHl6IiwiaWQiOiIzNjVlNjUyYy0yMzU5LTRiNTQtYTQxYi1kODEyZmNmYWE3NTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd29ycnlmcmVlIiwicG9ydCI6IjgwIiwicHMiOiJkeW5hbWljLXNnM2Iub2Jmcy54eXoiLCJzY3kiOiJhdXRvIiwic25pIjoiaS5vdXRoZXIucHciLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
