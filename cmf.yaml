@@ -32,22 +32,6 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: ASIA+VMESS-WS NTLS(2023-05-30)
-    server: asia1.oceis.net
-    port: 80
-    type: vmess
-    uuid: 1ed3a2a0-f96e-11ed-b837-205c6d5f5d78
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: ""
-    network: ws
-    ws-opts:
-      path: /vmws
-      headers:
-        Host: ""
-    udp: true
   - name: dynamic-sg3b.obfs.xyz
     server: i.outher.pw
     port: 80
@@ -144,17 +128,33 @@ proxies:
       headers:
         Host: v2ray3.udpgw.com
     udp: true
+  - name: ASIA+VMESS-WS NTLS(2023-05-30)
+    server: asia1.oceis.net
+    port: 80
+    type: vmess
+    uuid: 1ed3a2a0-f96e-11ed-b837-205c6d5f5d78
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: ""
+    udp: true
 proxy-groups:
-  - name: Edu
+  - name: FASTSSH-SSHKIT-HOWDY
     type: select
     proxies:
-      - ASIA+VMESS-WS NTLS(2023-05-30)
       - dynamic-sg3b.obfs.xyz
       - R80:Vmess Singapore HE-1 Limit 2023-05-30
       - R80:Vmess Indonesia Herza Limit 2023-05-26
       - R80:Vmess Singapore Contabo 2023-05-30
       - SG+VMESS-WS NTLS(2023-05-30)
       - v2ray3.udpgw.com
+	  - ASIA+VMESS-WS NTLS(2023-05-30)
       - DIRECT
 rules:
-  - MATCH,Edu
+  - MATCH,FASTSSH-SSHKIT-HOWDY
