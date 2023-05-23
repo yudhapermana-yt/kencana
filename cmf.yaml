@@ -48,11 +48,113 @@ proxies:
       headers:
         Host: ""
     udp: true
+      - name: dynamic-sg3b.obfs.xyz
+    server: i.outher.pw
+    port: 80
+    type: vmess
+    uuid: 88f48fbb-c2ea-44c3-bd14-c2b0603a4b87
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: i.outher.pw
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: dynamic-sg3b.obfs.xyz
+    udp: true
+  - name: R80:Vmess Singapore HE-1 Limit 2023-05-30
+    server: i.outher.pw
+    port: 80
+    type: vmess
+    uuid: 1176a640-f96f-11ed-b832-205c6d5f5d78
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg-1.0rd.net
+    network: ws
+    ws-opts:
+      path: /2v14q0w9
+      headers:
+        Host: sg-1.0rd.net
+    udp: true
+  - name: R80:Vmess Indonesia Herza Limit 2023-05-26
+    server: i.outher.pw
+    port: 80
+    type: vmess
+    uuid: 348a9fe0-f96f-11ed-b135-205c6d5f5d78
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: id-1.0rd.net
+    network: ws
+    ws-opts:
+      path: /qek03rou
+      headers:
+        Host: id-1.0rd.net
+    udp: true
+  - name: R80:Vmess Singapore Contabo 2023-05-30
+    server: i.outher.pw
+    port: 80
+    type: vmess
+    uuid: 44ff2dc0-f96f-11ed-b138-205c6d5f5d78
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg-3.0rd.net
+    network: ws
+    ws-opts:
+      path: /2vkz7yes
+      headers:
+        Host: sg-3.0rd.net
+    udp: true
+  - name: SG+VMESS-WS NTLS(2023-05-30)
+    server: sg3.socifiles.com
+    port: 80
+    type: vmess
+    uuid: 967b28d0-f96f-11ed-9291-1239d0255272
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /vmws
+      headers:
+        Host: ""
+    udp: true
+  - name: v2ray3.udpgw.com
+    server: i.outher.pw
+    port: 80
+    type: vmess
+    uuid: 8ec9d1f9-f5e9-4f72-b96e-3f2a0f7a5899
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: i.outher.pw
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: v2ray3.udpgw.com
+    udp: true
 proxy-groups:
-  - name: FASTSSH-SSHKIT-HOWDY
+  - name: Edu
     type: select
     proxies:
       - ASIA+VMESS-WS NTLS(2023-05-30)
+      - dynamic-sg3b.obfs.xyz
+      - R80:Vmess Singapore HE-1 Limit 2023-05-30
+      - R80:Vmess Indonesia Herza Limit 2023-05-26
+      - R80:Vmess Singapore Contabo 2023-05-30
+      - SG+VMESS-WS NTLS(2023-05-30)
+      - v2ray3.udpgw.com
       - DIRECT
 rules:
-  - MATCH,FASTSSH-SSHKIT-HOWDY
+  - MATCH,Edu
