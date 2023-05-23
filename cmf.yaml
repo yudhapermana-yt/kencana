@@ -48,7 +48,7 @@ proxies:
       headers:
         Host: ""
     udp: true
-      - name: dynamic-sg3b.obfs.xyz
+  - name: dynamic-sg3b.obfs.xyz
     server: i.outher.pw
     port: 80
     type: vmess
