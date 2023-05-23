@@ -33,7 +33,7 @@ dns:
     - 112.215.203.254
 proxies:
   - name: dynamic-sg3b.obfs.xyz
-    server: i.outher.pw
+    server: 141.193.213.21
     port: 80
     type: vmess
     uuid: 88f48fbb-c2ea-44c3-bd14-c2b0603a4b87
@@ -49,7 +49,7 @@ proxies:
         Host: dynamic-sg3b.obfs.xyz
     udp: true
   - name: R80:Vmess Singapore HE-1 Limit 2023-05-30
-    server: i.outher.pw
+    server: 141.193.213.21
     port: 80
     type: vmess
     uuid: 1176a640-f96f-11ed-b832-205c6d5f5d78
@@ -65,7 +65,7 @@ proxies:
         Host: sg-1.0rd.net
     udp: true
   - name: R80:Vmess Indonesia Herza Limit 2023-05-26
-    server: i.outher.pw
+    server: 141.193.213.21
     port: 80
     type: vmess
     uuid: 348a9fe0-f96f-11ed-b135-205c6d5f5d78
@@ -81,7 +81,7 @@ proxies:
         Host: id-1.0rd.net
     udp: true
   - name: R80:Vmess Singapore Contabo 2023-05-30
-    server: i.outher.pw
+    server: 141.193.213.21
     port: 80
     type: vmess
     uuid: 44ff2dc0-f96f-11ed-b138-205c6d5f5d78
@@ -97,7 +97,7 @@ proxies:
         Host: sg-3.0rd.net
     udp: true
   - name: SG+VMESS-WS NTLS(2023-05-30)
-    server: sg3.socifiles.com
+    server: 141.193.213.21
     port: 80
     type: vmess
     uuid: 967b28d0-f96f-11ed-9291-1239d0255272
@@ -105,15 +105,15 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: ""
+    servername: sg3.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: ""
+        Host: sg3.socifiles.com
     udp: true
   - name: v2ray3.udpgw.com
-    server: i.outher.pw
+    server: 141.193.213.21
     port: 80
     type: vmess
     uuid: 8ec9d1f9-f5e9-4f72-b96e-3f2a0f7a5899
@@ -129,7 +129,7 @@ proxies:
         Host: v2ray3.udpgw.com
     udp: true
   - name: ASIA+VMESS-WS NTLS(2023-05-30)
-    server: asia1.oceis.net
+    server: 141.193.213.21
     port: 80
     type: vmess
     uuid: 1ed3a2a0-f96e-11ed-b837-205c6d5f5d78
@@ -137,12 +137,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: ""
+    servername: asia1.oceis.net
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: ""
+        Host: asia1.oceis.net
     udp: true
 proxy-groups:
   - name: FASTSSH-SSHKIT-HOWDY
@@ -154,7 +154,7 @@ proxy-groups:
       - R80:Vmess Singapore Contabo 2023-05-30
       - SG+VMESS-WS NTLS(2023-05-30)
       - v2ray3.udpgw.com
-	  - ASIA+VMESS-WS NTLS(2023-05-30)
+      - ASIA+VMESS-WS NTLS(2023-05-30)
       - DIRECT
 rules:
   - MATCH,FASTSSH-SSHKIT-HOWDY
