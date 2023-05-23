@@ -32,7 +32,7 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: dynamic-sg3b.obfs.xyz
+  - name: dynamic
     server: 141.193.213.21
     port: 80
     type: vmess
@@ -48,7 +48,7 @@ proxies:
       headers:
         Host: dynamic-sg3b.obfs.xyz
     udp: true
-  - name: R80:Vmess Singapore HE-1 Limit 2023-05-30
+  - name: HE-1
     server: 141.193.213.21
     port: 80
     type: vmess
@@ -64,7 +64,7 @@ proxies:
       headers:
         Host: sg-1.0rd.net
     udp: true
-  - name: R80:Vmess Indonesia Herza Limit 2023-05-26
+  - name: Herza
     server: 141.193.213.21
     port: 80
     type: vmess
@@ -80,7 +80,7 @@ proxies:
       headers:
         Host: id-1.0rd.net
     udp: true
-  - name: R80:Vmess Singapore Contabo 2023-05-30
+  - name: Contabo
     server: 141.193.213.21
     port: 80
     type: vmess
@@ -96,7 +96,7 @@ proxies:
       headers:
         Host: sg-3.0rd.net
     udp: true
-  - name: SG+VMESS-WS NTLS(2023-05-30)
+  - name: NTLS
     server: 141.193.213.21
     port: 80
     type: vmess
@@ -112,7 +112,7 @@ proxies:
       headers:
         Host: sg3.socifiles.com
     udp: true
-  - name: v2ray3.udpgw.com
+  - name: v2ray3
     server: 141.193.213.21
     port: 80
     type: vmess
@@ -128,7 +128,7 @@ proxies:
       headers:
         Host: v2ray3.udpgw.com
     udp: true
-  - name: ASIA+VMESS-WS NTLS(2023-05-30)
+  - name: NTLS(05-30)
     server: 141.193.213.21
     port: 80
     type: vmess
@@ -148,13 +148,13 @@ proxy-groups:
   - name: FASTSSH-SSHKIT-HOWDY
     type: select
     proxies:
-      - dynamic-sg3b.obfs.xyz
-      - R80:Vmess Singapore HE-1 Limit 2023-05-30
-      - R80:Vmess Indonesia Herza Limit 2023-05-26
-      - R80:Vmess Singapore Contabo 2023-05-30
-      - SG+VMESS-WS NTLS(2023-05-30)
-      - v2ray3.udpgw.com
-      - ASIA+VMESS-WS NTLS(2023-05-30)
+      - dynamic
+      - HE-1
+      - Herza
+      - Contabo
+      - NTLS
+      - v2ray3
+      - NTLS(05-30)
       - DIRECT
 rules:
   - MATCH,FASTSSH-SSHKIT-HOWDY
