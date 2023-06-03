@@ -12,3 +12,4 @@ trojan://085bf950-0219-11ee-bf33-1239d0255272@i.outher.pw:443/?sni=id-1.test3.ne
 trojan://14b73200-0219-11ee-bf22-1239d0255272@i.outher.pw:443/?sni=id-1.test3.net&type=ws&host=id-1.test3.net&path=%2Fhowdy#ID3
 trojan://1f518660-0219-11ee-aaea-1239d0255272@i.outher.pw:443/?sni=id-1.test3.net&type=ws&host=id-1.test3.net&path=%2Fhowdy#ID4
 trojan://28fdbc50-0219-11ee-a919-1239d0255272@i.outher.pw:443/?sni=id-1.test3.net&type=ws&host=id-1.test3.net&path=%2Fhowdy#ID5
+vmess://eyJhZGQiOiJpLm91dGhlci5wdyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaHNpbGQuc2xvd2RuczEubXkuaWQiLCJpZCI6ImViMmM4NzA1LTMwMWYtNGQ3ZS05OTM3LWIyZWIyZGE3ODlhNCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiaWRoc3QxLXNnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
