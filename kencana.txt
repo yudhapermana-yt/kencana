@@ -7,12 +7,3 @@ trojan://8a29ce80-0217-11ee-be92-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.ne
 trojan://94a32a90-0217-11ee-8697-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG4
 trojan://ba794200-0217-11ee-a8ea-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG5
 trojan://c4ecfe40-0217-11ee-8d3f-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG6
-#trojannew
-trojan://301d0ca0-fdd6-11ed-97d0-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG1
-trojan://4447ab00-fdd6-11ed-bfb5-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG2
-trojan://537a30d0-fdd6-11ed-bbe8-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG3
-trojan://5da20d50-fdd6-11ed-92a8-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG4
-trojan://687d2610-fdd6-11ed-b130-1239d0255272@i.outher.pw:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG5
-trojan://ac723110-fdd6-11ed-a3be-1239d0255272@i.outher.pw:443/?sni=id-1.test3.net&type=ws&host=id-1.test3.net&path=%2Fhowdy#ID1
-trojan://b733e1e0-fdd6-11ed-975c-1239d0255272@i.outher.pw:443/?sni=id-1.test3.net&type=ws&host=id-1.test3.net&path=%2Fhowdy#ID2
-trojan://c18c25e0-fdd6-11ed-a033-1239d0255272@i.outher.pw:443/?sni=id-1.test3.net&type=ws&host=id-1.test3.net&path=%2Fhowdy#ID3
