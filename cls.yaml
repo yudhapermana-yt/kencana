@@ -1,0 +1,176 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+proxies:
+  - name: SGa1
+    server: i.outher.pw
+    port: 443
+    type: trojan
+    password: 1f669d80-0cde-11ee-b084-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa2
+    server: i.outher.pw
+    port: 443
+    type: trojan
+    password: af73c960-0cde-11ee-b2ae-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa3
+    server: i.outher.pw
+    port: 443
+    type: trojan
+    password: ba881500-0cde-11ee-8bf1-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa4
+    server: i.outher.pw
+    port: 443
+    type: trojan
+    password: c82a78d0-0cde-11ee-b2ea-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa5
+    server: i.outher.pw
+    port: 443
+    type: trojan
+    password: d871f1d0-0cde-11ee-9ebc-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa6
+    server: i.outher.pw
+    port: 443
+    type: trojan
+    password: e610ffc0-0cde-11ee-88ca-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: cowcow
+    server: i.outher.pw
+    port: 80
+    type: vmess
+    uuid: 99562f3c-a2af-45a3-98ab-ffc39a25efe5
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: do2.outher.me
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers:
+        Host: do2.outher.me
+    udp: true
+  - name: sooKlin
+    server: i.outher.pw
+    port: 80
+    type: vmess
+    uuid: 6a2c79dc-cbf4-4d8b-a5d4-cd741b61bb09
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: hurricane3.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: hurricane3.nextvpn.cc
+    udp: true
+  - name: lenovo
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: 5f05bddc-22f5-4c19-90b7-06d75ab1f1ba
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sgdo2.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /vpnneo
+      headers:
+        Host: sgdo2.nextvpn.cc
+    udp: true
+proxy-groups:
+  - name: FASTSSH-SSHKIT-HOWDY
+    type: select
+    proxies:
+      - lenovo
+      - SGa1
+      - SGa2
+      - SGa3
+      - SGa4
+      - SGa5
+      - SGa6
+      - cowcow
+      - sooKlin
+
+rules:
+  - MATCH,FASTSSH-SSHKIT-HOWDY
