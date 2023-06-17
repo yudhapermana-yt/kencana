@@ -140,7 +140,7 @@ proxies:
     # ====================== GRATIS  ======================
     # ====================== GRATIS  ======================
     # ====================== GRATIS  ======================
-    - name: lenovo1
+    - name: lenovo
       server: x.outher.pw
       type: vmess
       port: 80
