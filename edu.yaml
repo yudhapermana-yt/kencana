@@ -16,19 +16,6 @@ proxies:
           Host: sgdo1.nextvpn.cc
       udp: true
     
-    - name: coco limit
-      server: 141.193.213.21
-      type: vless
-      port: 80
-      uuid: 52b6d141-93fe-474e-bf4d-b3728f8ded0f
-      tls: false
-      network: ws
-      ws-opts:
-        path: /vless/
-        headers:
-          Host: onichan-zygjh.andresakti.xyz
-      udp: true
-    
     - name: lenovo
       server: 141.193.213.21
       type: vmess
