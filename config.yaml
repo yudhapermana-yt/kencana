@@ -68,6 +68,9 @@ proxy-groups:
     type: select
     use:
       - vip
+  - name: "Edukasi"
+    type: select
+    use:
       - edukasi
 proxy-providers:
   vip:
@@ -87,5 +90,6 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
+      interval: 86400
 rules:
   - MATCH,Vip
