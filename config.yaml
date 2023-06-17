@@ -72,7 +72,7 @@ proxy-providers:
   edukasi:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/edu.yaml
+    url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/gratis.yaml
     path: ./assets/edu.yaml
     health-check:
       enable: true
