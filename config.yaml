@@ -64,11 +64,24 @@ hosts:
   'ota-cache2.googlezip.net': 127.0.0.1
 proxies:
 proxy-groups:
+  - name: "Vip"
+    type: select
+    use:
+      - vip
   - name: "Edukasi"
     type: select
     use:
       - edukasi
 proxy-providers:
+  edukasi:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/vip.yaml
+    path: ./assets/vip.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 86400
   edukasi:
     type: http
     behavior: domain
