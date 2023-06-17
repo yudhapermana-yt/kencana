@@ -1,0 +1,117 @@
+proxies:
+    - name: bola21
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 9b936083-4dc9-48dc-a43b-ad3ffe51728c
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /vpnneo
+        headers:
+          Host: sgdo1.nextvpn.cc
+      udp: true
+    
+    - name: coco limit
+      server: 141.193.213.21
+      type: vless
+      port: 80
+      uuid: 52b6d141-93fe-474e-bf4d-b3728f8ded0f
+      tls: false
+      network: ws
+      ws-opts:
+        path: /vless/
+        headers:
+          Host: onichan-zygjh.andresakti.xyz
+      udp: true
+    
+    - name: lenovo
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 5f05bddc-22f5-4c19-90b7-06d75ab1f1ba
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /vpnneo
+        headers:
+          Host: sgdo2.nextvpn.cc
+      udp: true
+
+    - name: v2ray3
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 79a03278-ca25-43e8-9a2a-40dd12d0ab69
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: i.outher.pw
+      network: ws
+      ws-opts:
+        path: /worryfree
+        headers:
+          Host: v2ray3.udpgw.com
+      udp: true
+    
+    - name: dynamic
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 365e652c-2359-4b54-a41b-d812fcfaa755
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /worryfree
+        headers:
+          Host: dynamic-sg3b.obfs.xyz
+      udp: true
+
+    - name: momin
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 5f88d01c-ecc0-5a41-8dbc-d5fc8c1e4d18
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /xrayvmess
+        headers:
+          Host: sgdo001.xrayku.xyz
+      udp: true
+          
+    - name: sbt
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 5f88d01c-ecc0-5a41-8dbc-d5fc8c1e4d18
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /xrayvmess
+        headers:
+          Host: sgdo001.xrayku.xyz
+      udp: true
+    
+        
