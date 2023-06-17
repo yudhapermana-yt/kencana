@@ -1,6 +1,10 @@
 proxies:
+    # ====================== VIP  ======================
+    # ====================== VIP  ======================
+    # ====================== VIP  ======================
+    
     - name: sooKlin
-      server: i.outher.pw
+      server: x.outher.pw
       type: vmess
       port: 80
       uuid: 6a2c79dc-cbf4-4d8b-a5d4-cd741b61bb09
@@ -16,7 +20,7 @@ proxies:
           Host: hurricane3.nextvpn.cc
       udp: true
     - name: lenovo
-      server: 141.193.213.21
+      server: x.outher.pw
       type: vmess
       port: 80
       uuid: 5f05bddc-22f5-4c19-90b7-06d75ab1f1ba
@@ -32,7 +36,7 @@ proxies:
           Host: sgdo2.nextvpn.cc
       udp: true
     - name: momin
-      server: 141.193.213.21
+      server: x.outher.pw
       type: vmess
       port: 80
       uuid: 5f88d01c-ecc0-5a41-8dbc-d5fc8c1e4d18
@@ -48,7 +52,7 @@ proxies:
           Host: sgdo001.xrayku.xyz
       udp: true
     - name: cowcow
-      server: 141.193.213.21
+      server: x.outher.pw
       type: vmess
       port: 80
       uuid: 99562f3c-a2af-45a3-98ab-ffc39a25efe5
@@ -64,7 +68,10 @@ proxies:
           Host: do2.outher.me
       udp: true
     
-    #TSEL ILMUPEDIA
+    # ====================== TSEL ILMUPEDIA  ======================
+    # ====================== TSEL ILMUPEDIA  ======================
+    # ====================== TSEL ILMUPEDIA  ======================
+    
     - name: sooKlin1
       server: x.outher.pw
       type: vmess
@@ -129,3 +136,134 @@ proxies:
         headers:
           Host: do2.outher.me
       udp: true
+
+    # ====================== GRATIS  ======================
+    # ====================== GRATIS  ======================
+    # ====================== GRATIS  ======================
+
+- name: lenovo
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: 5f05bddc-22f5-4c19-90b7-06d75ab1f1ba
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sgdo2.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /vpnneo
+      headers:
+        Host: sgdo2.nextvpn.cc
+    udp: true
+  - name: SGa1
+    server: x.outher.pw
+    port: 443
+    type: trojan
+    password: 1f669d80-0cde-11ee-b084-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa2
+    server: x.outher.pw
+    port: 443
+    type: trojan
+    password: af73c960-0cde-11ee-b2ae-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa3
+    server: x.outher.pw
+    port: 443
+    type: trojan
+    password: ba881500-0cde-11ee-8bf1-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa4
+    server: x.outher.pw
+    port: 443
+    type: trojan
+    password: c82a78d0-0cde-11ee-b2ea-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa5
+    server: x.outher.pw
+    port: 443
+    type: trojan
+    password: d871f1d0-0cde-11ee-9ebc-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: SGa6
+    server: x.outher.pw
+    port: 443
+    type: trojan
+    password: e610ffc0-0cde-11ee-88ca-1239d0255272
+    skip-cert-verify: true
+    sni: sg-2.test3.net
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg-2.test3.net
+    udp: true
+  - name: cowcow
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: 99562f3c-a2af-45a3-98ab-ffc39a25efe5
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: do2.outher.me
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers:
+        Host: do2.outher.me
+    udp: true
+  - name: sooKlin
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: 6a2c79dc-cbf4-4d8b-a5d4-cd741b61bb09
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: hurricane3.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: hurricane3.nextvpn.cc
+    udp: true
