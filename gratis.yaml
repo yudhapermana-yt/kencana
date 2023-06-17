@@ -1,3 +1,4 @@
+proxies:
   - name: SGa1
     server: i.outher.pw
     port: 443
