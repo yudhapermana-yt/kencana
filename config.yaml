@@ -73,7 +73,7 @@ proxy-groups:
     use:
       - edukasi
 proxy-providers:
-  edukasi:
+  vip:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/vip.yaml
@@ -92,4 +92,4 @@ proxy-providers:
       url: http://cp.cloudflare.com/generate_204
       interval: 86400
 rules:
-  - MATCH,Edukasi
+  - MATCH,Vip
