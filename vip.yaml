@@ -1,0 +1,131 @@
+proxies:
+    - name: sooKlin
+      server: i.outher.pw
+      type: vmess
+      port: 80
+      uuid: 6a2c79dc-cbf4-4d8b-a5d4-cd741b61bb09
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /worryfree
+        headers:
+          Host: hurricane3.nextvpn.cc
+      udp: true
+    - name: lenovo
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 5f05bddc-22f5-4c19-90b7-06d75ab1f1ba
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /vpnneo
+        headers:
+          Host: sgdo2.nextvpn.cc
+      udp: true
+    - name: momin
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 5f88d01c-ecc0-5a41-8dbc-d5fc8c1e4d18
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /xrayvmess
+        headers:
+          Host: sgdo001.xrayku.xyz
+      udp: true
+    - name: cowcow
+      server: 141.193.213.21
+      type: vmess
+      port: 80
+      uuid: 99562f3c-a2af-45a3-98ab-ffc39a25efe5
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /v2ray
+        headers:
+          Host: do2.outher.me
+      udp: true
+    
+    #TSEL ILMUPEDIA
+    - name: sooKlin1
+      server: x.outher.pw
+      type: vmess
+      port: 80
+      uuid: 6a2c79dc-cbf4-4d8b-a5d4-cd741b61bb09
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /worryfree
+        headers:
+          Host: hurricane3.nextvpn.cc
+      udp: true
+    - name: lenovo1
+      server: x.outher.pw
+      type: vmess
+      port: 80
+      uuid: 5f05bddc-22f5-4c19-90b7-06d75ab1f1ba
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /vpnneo
+        headers:
+          Host: sgdo2.nextvpn.cc
+      udp: true
+    - name: momin1
+      server: x.outher.pw
+      type: vmess
+      port: 80
+      uuid: 5f88d01c-ecc0-5a41-8dbc-d5fc8c1e4d18
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /xrayvmess
+        headers:
+          Host: sgdo001.xrayku.xyz
+      udp: true
+    - name: cowcow1
+      server: x.outher.pw
+      type: vmess
+      port: 80
+      uuid: 99562f3c-a2af-45a3-98ab-ffc39a25efe5
+      alterId: 0
+      cipher: auto
+      tls: false
+      skip-cert-verify: true
+      servername: 
+      network: ws
+      ws-opts:
+        path: /v2ray
+        headers:
+          Host: do2.outher.me
+      udp: true
