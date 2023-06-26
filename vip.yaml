@@ -18,21 +18,21 @@ proxies:
       headers:
         Host: hurricane3.nextvpn.cc
     udp: true
-  - name: lenovo
+  - name: Mewloon
     server: x.outher.pw
-    type: vmess
     port: 80
-    uuid: 5f05bddc-22f5-4c19-90b7-06d75ab1f1ba
+    type: vmess
+    uuid: 901a9547-378f-4dac-99e6-141953c75393
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: 
+    servername: sgdo1v.nextvpn.cc
     network: ws
     ws-opts:
-      path: /vpnneo
+      path: /worryfree
       headers:
-        Host: sgdo2.nextvpn.cc
+        Host: sgdo1v.nextvpn.cc
     udp: true
   - name: cowcow
     server: x.outher.pw
