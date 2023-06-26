@@ -253,3 +253,19 @@ proxies:
       headers:
         Host: hurricane3.nextvpn.cc
     udp: true
+  - name: Mewloon
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: 901a9547-378f-4dac-99e6-141953c75393
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sgdo1v.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: sgdo1v.nextvpn.cc
+    udp: true
