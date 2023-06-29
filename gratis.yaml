@@ -195,48 +195,6 @@ proxies:
       headers:
         Host: id-1.test3.net
     udp: true
-  - name: SGa5
-    server: i.outher.pw
-    port: 443
-    type: trojan
-    password: d871f1d0-0cde-11ee-9ebc-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SGa6
-    server: i.outher.pw
-    port: 443
-    type: trojan
-    password: e610ffc0-0cde-11ee-88ca-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: cowcow
-    server: x.outher.pw
-    port: 80
-    type: vmess
-    uuid: 99562f3c-a2af-45a3-98ab-ffc39a25efe5
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: do2.outher.me
-    network: ws
-    ws-opts:
-      path: /v2ray
-      headers:
-        Host: do2.outher.me
-    udp: true
   - name: sooKlin
     server: x.outher.pw
     port: 80
