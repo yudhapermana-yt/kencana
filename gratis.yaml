@@ -285,3 +285,19 @@ proxies:
       headers:
         Host: mewlon.slowapp.cfd
     udp: true
+  - name: lebaran
+    server: i.outher.pw
+    port: 80
+    type: vmess
+    uuid: 353fa7e8-50aa-4c0f-9be8-9f6a66a7a575
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: vip-id.casper.my.id
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: vip-id.casper.my.id
+    udp: true
