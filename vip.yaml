@@ -66,3 +66,19 @@ proxies:
       headers:
         Host: mewlon.slowapp.cfd
     udp: true
+  - name: maaqow
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: bc0aebfd-e8fe-4bb8-9e59-7e87f4a24a65
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: maaqow.slowapp.cfd
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: maaqow.slowapp.cfd
+    udp: true
