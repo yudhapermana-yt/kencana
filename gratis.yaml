@@ -1,5 +1,52 @@
 proxies:
-
+  - name: dynamic
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: 075fb0d9-33f9-4b98-907b-04b57404d611
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x.outher.pw
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: dynamic-sg1b.obfs.xyz
+    udp: true
+  - name: v2ray3
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: 9dc0c6aa-39a1-46be-9938-85999e3c3498
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x.outher.pw
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: v2ray3.udpgw.com
+    udp: true
+  - name: HE-1 Limit 07-09
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: 813edee0-18b3-11ee-b535-205c6d5f5d78
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg-1.0rd.net
+    network: ws
+    ws-opts:
+      path: /iejgx94f
+      headers:
+        Host: sg-1.0rd.net
+    udp: true
   - name: maaqow
     server: x.outher.pw
     port: 80
