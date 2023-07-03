@@ -66,3 +66,68 @@ proxies:
       headers:
         Host: maaqow.slowapp.cfd
     udp: true
+#LIVE ON
+  - name: sooKlin1
+    server: l.outher.me
+    port: 80
+    type: vmess
+    uuid: 6a2c79dc-cbf4-4d8b-a5d4-cd741b61bb09
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: hurricane3.nextvpn.cc
+    udp: true
+  - name: Mewloon1
+    server: l.outher.me
+    port: 80
+    type: vmess
+    uuid: 901a9547-378f-4dac-99e6-141953c75393
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sgdo1v.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: sgdo1v.nextvpn.cc
+    udp: true
+  - name: idc71
+    server: l.outher.me
+    port: 80
+    type: vmess
+    uuid: c8d25d20-47d8-432a-a318-4f2c5709dd53
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: mewlon.slowapp.cfd
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: mewlon.slowapp.cfd
+    udp: true
+  - name: maaqow1
+    server: l.outher.me
+    port: 80
+    type: vmess
+    uuid: bc0aebfd-e8fe-4bb8-9e59-7e87f4a24a65
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: maaqow.slowapp.cfd
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: maaqow.slowapp.cfd
+    udp: true
