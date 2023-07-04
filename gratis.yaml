@@ -1,41 +1,58 @@
 proxies:
-  - name: dynamic
-    server: x.outher.pw
+
+  - name: sshocean-coco8q
+    server: x.outher.me
     port: 80
     type: vmess
-    uuid: 075fb0d9-33f9-4b98-907b-04b57404d611
+    uuid: 9f7eeed2-4c4f-4f7b-925c-9866735deb68
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: x.outher.pw
+    servername: sg1-mlb.v2rayserv.com
     network: ws
     ws-opts:
-      path: /worryfree
+      path: /vmess
       headers:
-        Host: dynamic-sg1b.obfs.xyz
+        Host: sg1-mlb.v2rayserv.com
     udp: true
-  - name: v2ray3
-    server: x.outher.pw
+  - name: sshocean-coco86
+    server: x.outher.me
     port: 80
     type: vmess
-    uuid: 9dc0c6aa-39a1-46be-9938-85999e3c3498
+    uuid: b9ac76d4-e6ec-4655-b07f-7736d48ded2a
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: x.outher.pw
+    servername: sg2-mlb.v2rayserv.com
     network: ws
     ws-opts:
-      path: /worryfree
+      path: /vmess
       headers:
-        Host: v2ray3.udpgw.com
+        Host: sg2-mlb.v2rayserv.com
     udp: true
-  - name: HE-1 Limit 07-09
+  - name: sshocean-coco8s
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: b6e4059d-1796-4950-89dd-ea2d60e2a03a
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg3-mlb.v2rayserv.com
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg3-mlb.v2rayserv.com
+    udp: true
+  - name: R80:Vmess Singapore HE-1 Limit 2023-07-09
     server: x.outher.pw
     port: 80
     type: vmess
-    uuid: 813edee0-18b3-11ee-b535-205c6d5f5d78
+    uuid: 196eac30-18b4-11ee-b632-205c6d5f5d78
     alterId: 0
     cipher: auto
     tls: false
@@ -43,27 +60,11 @@ proxies:
     servername: sg-1.0rd.net
     network: ws
     ws-opts:
-      path: /iejgx94f
+      path: /5cny06ku
       headers:
         Host: sg-1.0rd.net
     udp: true
-  - name: maaqow
-    server: x.outher.pw
-    port: 80
-    type: vmess
-    uuid: bc0aebfd-e8fe-4bb8-9e59-7e87f4a24a65
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: maaqow.slowapp.cfd
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: maaqow.slowapp.cfd
-    udp: true
-  - name: sooKlin 07-08
+  - name: sooKlin
     server: x.outher.pw
     port: 80
     type: vmess
@@ -79,7 +80,7 @@ proxies:
       headers:
         Host: hurricane3.nextvpn.cc
     udp: true
-  - name: Mewloon 07-26
+  - name: Mewloon
     server: x.outher.pw
     port: 80
     type: vmess
@@ -110,4 +111,20 @@ proxies:
       path: /vmess
       headers:
         Host: mewlon.slowapp.cfd
+    udp: true
+  - name: maaqow
+    server: x.outher.pw
+    port: 80
+    type: vmess
+    uuid: bc0aebfd-e8fe-4bb8-9e59-7e87f4a24a65
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: maaqow.slowapp.cfd
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: maaqow.slowapp.cfd
     udp: true
