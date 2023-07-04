@@ -1,4 +1,20 @@
 proxies:
+  - name: tehgelas
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: d845bf27-4573-459d-a990-7a89476bea63
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: do15.outher.me
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: do15.outher.me
+    udp: true
     # ====================== VIP  ======================
     # ====================== VIP  ======================
     # ====================== VIP  ======================
