@@ -68,7 +68,7 @@ proxies:
     udp: true
 #LIVE ON
   - name: sooKlin1
-    server: l.outher.me
+    server: 172.67.139.111
     port: 80
     type: vmess
     uuid: 6a2c79dc-cbf4-4d8b-a5d4-cd741b61bb09
@@ -84,7 +84,7 @@ proxies:
         Host: hurricane3.nextvpn.cc
     udp: true
   - name: Mewloon1
-    server: l.outher.me
+    server: 172.67.139.111
     port: 80
     type: vmess
     uuid: 901a9547-378f-4dac-99e6-141953c75393
@@ -100,7 +100,7 @@ proxies:
         Host: sgdo1v.nextvpn.cc
     udp: true
   - name: idc71
-    server: l.outher.me
+    server: 172.67.139.111
     port: 80
     type: vmess
     uuid: c8d25d20-47d8-432a-a318-4f2c5709dd53
@@ -116,7 +116,7 @@ proxies:
         Host: mewlon.slowapp.cfd
     udp: true
   - name: maaqow1
-    server: l.outher.me
+    server: 172.67.139.111
     port: 80
     type: vmess
     uuid: bc0aebfd-e8fe-4bb8-9e59-7e87f4a24a65
