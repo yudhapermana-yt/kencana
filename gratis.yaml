@@ -1,5 +1,20 @@
 proxies:
-
+  - name: bukapanna
+    server: i.outher.me
+    port: 80
+    type: vmess
+    uuid: 021cf5d5-01d3-4613-848c-40aa7183bda4
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: melbi7.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: melbi7.nextvpn.cc
+    udp: true
   - name: sshocean-coco8q
     server: x.outher.me
     port: 80
