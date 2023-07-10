@@ -1,3 +1,21 @@
+trojan://b0888570-1f1f-11ee-9954-1239d0255272@i.outher.me:443/?sni=nl.test3.net&type=ws&host=nl.test3.net&path=%2Fhowdy#Belanda 01
+trojan://6a652700-1f20-11ee-800e-1239d0255272@i.outher.me:443/?sni=nl.test3.net&type=ws&host=nl.test3.net&path=%2Fhowdy#Belanda 02
+trojan://76e35b80-1f20-11ee-a308-1239d0255272@i.outher.me:443/?sni=nl.test3.net&type=ws&host=nl.test3.net&path=%2Fhowdy#Belanda 03
+trojan://856057f0-1f20-11ee-84e3-1239d0255272@i.outher.me:443/?sni=nl.test3.net&type=ws&host=nl.test3.net&path=%2Fhowdy#Belanda 04
+trojan://ac25d120-1f20-11ee-b717-1239d0255272@i.outher.me:443/?sni=fr.test3.net&type=ws&host=fr.test3.net&path=%2Fhowdy#Perancis 01
+trojan://b8cce230-1f20-11ee-9bdb-1239d0255272@i.outher.me:443/?sni=fr.test3.net&type=ws&host=fr.test3.net&path=%2Fhowdy#Perancis 02
+trojan://c2a568d0-1f20-11ee-9133-1239d0255272@i.outher.me:443/?sni=fr.test3.net&type=ws&host=fr.test3.net&path=%2Fhowdy#Perancis 03
+trojan://cf85e3c0-1f20-11ee-9f4c-1239d0255272@i.outher.me:443/?sni=fr.test3.net&type=ws&host=fr.test3.net&path=%2Fhowdy#Perancis 04
+trojan://00f154a0-1f21-11ee-b208-1239d0255272@i.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG 01
+trojan://0ff8be00-1f21-11ee-85d0-1239d0255272@i.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG 02
+trojan://18dda100-1f21-11ee-b0de-1239d0255272@i.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG 03
+trojan://21847700-1f21-11ee-b2d8-1239d0255272@i.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG 04
+trojan://2cda31a0-1f21-11ee-98ef-1239d0255272@i.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG 05
+trojan://f52662c0-1f21-11ee-8a8e-1239d0255272@i.outher.me:443/?sni=sg6-trojan.bonds.id&type=ws&host=sg6-trojan.bonds.id&path=%2Fhowdy#SG 06
+trojan://feb6b700-1f21-11ee-ab44-1239d0255272@i.outher.me:443/?sni=sg6-trojan.bonds.id&type=ws&host=sg6-trojan.bonds.id&path=%2Fhowdy#SG 07
+trojan://070d5580-1f22-11ee-92ca-1239d0255272@i.outher.me:443/?sni=sg6-trojan.bonds.id&type=ws&host=sg6-trojan.bonds.id&path=%2Fhowdy#SG 08
+trojan://156a3c40-1f22-11ee-a44f-1239d0255272@i.outher.me:443/?sni=sg6-trojan.bonds.id&type=ws&host=sg6-trojan.bonds.id&path=%2Fhowdy#SG 09
+#PREMI
 vmess://ew0KICAiYWRkIjogImkub3V0aGVyLm1lIiwNCiAgImFpZCI6ICIwIiwNCiAgImhvc3QiOiAic2dkby12aXAubWNhc3Blci50ZWNoIiwNCiAgImlkIjogIjgzZTA5YmRmLTQwYTUtNDBhNy04NzM4LWJmMjkyZWI4YTc2ZSIsDQogICJuZXQiOiAid3MiLA0KICAicGF0aCI6ICIvdm1lc3MiLA0KICAicG9ydCI6ICI4MCIsDQogICJwcyI6ICJjZXNwZXIiLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAidiI6ICIyIg0KfQ==
 vmess://eyJhZGQiOiJ4Lm91dGhlci5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZG8xNS5vdXRoZXIubWUiLCJpZCI6ImQ4NDViZjI3LTQ1NzMtNDU5ZC1hOTkwLTdhODk0NzZiZWE2MyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoidGVoZ2VsYXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ4Lm91dGhlci5wdyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2dkbzF2Lm5leHR2cG4uY2MiLCJpZCI6IjkwMWE5NTQ3LTM3OGYtNGRhYy05OWU2LTE0MTk1M2M3NTM5MyIsIm5ldCI6IndzIiwicGF0aCI6Ii93b3JyeWZyZWUiLCJwb3J0IjoiODAiLCJwcyI6Ik1ld2xvb24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
