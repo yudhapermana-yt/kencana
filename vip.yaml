@@ -15,22 +15,6 @@ proxies:
       headers:
         Host: do15.outher.me
     udp: true
-  - name: Mewloon
-    server: x.outher.pw
-    port: 80
-    type: vmess
-    uuid: 901a9547-378f-4dac-99e6-141953c75393
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sgdo1v.nextvpn.cc
-    network: ws
-    ws-opts:
-      path: /worryfree
-      headers:
-        Host: sgdo1v.nextvpn.cc
-    udp: true
   - name: idc7
     server: x.outher.pw
     port: 80
@@ -46,4 +30,20 @@ proxies:
       path: /vmess
       headers:
         Host: mewlon.slowapp.cfd
+    udp: true
+  - name: Lemino ☣
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 4bf9a927-f5d1-4729-9679-269860fbb464
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: linode-x1.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: linode-x1.nextvpn.cc
     udp: true
