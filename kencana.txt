@@ -4,6 +4,7 @@ trojan://614eb070-2529-11ee-a313-1239d0255272@x.outher.me:443/?sni=sg-2.test3.ne
 trojan://69b5b860-2529-11ee-843f-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 04
 trojan://73567d20-2529-11ee-bb07-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 05
 trojan://8e479090-2529-11ee-999a-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 06
+#sgamp1
 trojan://a4b833e0-2ceb-11ee-bbaa-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AP 01 🔥
 trojan://adc24930-2ceb-11ee-ab50-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AP 02 🔥
 trojan://b78da6d0-2ceb-11ee-a2bd-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AP 03 🔥
@@ -11,6 +12,7 @@ trojan://c0eee100-2ceb-11ee-b380-1239d0255272@x.outher.me:443/?sni=sg-2.test3.ne
 trojan://cac4fc10-2ceb-11ee-8ed7-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AP 05 🔥
 trojan://d4af4980-2ceb-11ee-b5ed-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AP 06 🔥
 trojan://de44ae70-2ceb-11ee-afa4-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AP 07 🔥
+#sghe31
 trojan://03866530-2cec-11ee-9134-1239d0255272@x.outher.me:443/?sni=sg3-trojan.bonds.id&type=ws&host=sg3-trojan.bonds.id&path=%2Fhowdy#SG-HE 01 💦
 trojan://439c01b0-2cec-11ee-8a02-1239d0255272@x.outher.me:443/?sni=sg3-trojan.bonds.id&type=ws&host=sg3-trojan.bonds.id&path=%2Fhowdy#SG-HE 02 💦
 trojan://545a1260-2cec-11ee-87be-1239d0255272@x.outher.me:443/?sni=sg3-trojan.bonds.id&type=ws&host=sg3-trojan.bonds.id&path=%2Fhowdy#SG-HE 03 💦
