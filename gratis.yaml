@@ -1,56 +1,4 @@
 proxies:
-  - name: Romania 01
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 56cba980-2528-11ee-9e4b-1239d0255272
-    skip-cert-verify: true
-    sni: ro1.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: ro1.test3.net
-    udp: true
-  - name: Romania 02
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 781c6eb0-2528-11ee-aa77-1239d0255272
-    skip-cert-verify: true
-    sni: ro1.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: ro1.test3.net
-    udp: true
-  - name: Romania 03
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 88a442b0-2528-11ee-8b0e-1239d0255272
-    skip-cert-verify: true
-    sni: ro1.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: ro1.test3.net
-    udp: true
-  - name: Romania 04
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 0625ae30-2529-11ee-940d-1239d0255272
-    skip-cert-verify: true
-    sni: ro1.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: ro1.test3.net
-    udp: true
   - name: SG-AMP 01
     server: x.outher.me
     port: 443
@@ -129,11 +77,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-AMP 07
+  - name: SG-AP 01 🔥
     server: x.outher.me
     port: 443
     type: trojan
-    password: 9ad0b1e0-2529-11ee-a9d4-1239d0255272
+    password: a4b833e0-2ceb-11ee-bbaa-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -142,122 +90,148 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 01
+  - name: SG-AP 02 🔥
     server: x.outher.me
     port: 443
     type: trojan
-    password: addb1cf0-2529-11ee-8793-1239d0255272
+    password: adc24930-2ceb-11ee-ab50-1239d0255272
     skip-cert-verify: true
-    sni: sg1-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg1-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 02
+  - name: SG-AP 03 🔥
     server: x.outher.me
     port: 443
     type: trojan
-    password: b7c56580-2529-11ee-b75f-1239d0255272
+    password: b78da6d0-2ceb-11ee-a2bd-1239d0255272
     skip-cert-verify: true
-    sni: sg1-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg1-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 03
+  - name: SG-AP 04 🔥
     server: x.outher.me
     port: 443
     type: trojan
-    password: c252e560-2529-11ee-a095-1239d0255272
+    password: c0eee100-2ceb-11ee-b380-1239d0255272
     skip-cert-verify: true
-    sni: sg1-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg1-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 04
+  - name: SG-AP 05 🔥
     server: x.outher.me
     port: 443
     type: trojan
-    password: 00d40a40-252a-11ee-97e6-1239d0255272
+    password: cac4fc10-2ceb-11ee-8ed7-1239d0255272
     skip-cert-verify: true
-    sni: sg1-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg1-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 05
+  - name: SG-AP 06 🔥
     server: x.outher.me
     port: 443
     type: trojan
-    password: 0b8de110-252a-11ee-a463-1239d0255272
+    password: d4af4980-2ceb-11ee-b5ed-1239d0255272
     skip-cert-verify: true
-    sni: sg1-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg1-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG 06
-    server: i.outher.me
+  - name: SG-AP 07 🔥
+    server: x.outher.me
     port: 443
     type: trojan
-    password: f52662c0-1f21-11ee-8a8e-1239d0255272
+    password: de44ae70-2ceb-11ee-afa4-1239d0255272
     skip-cert-verify: true
-    sni: sg6-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg6-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG 07
-    server: i.outher.me
+  - name: SG-HE 01 💦
+    server: x.outher.me
     port: 443
     type: trojan
-    password: feb6b700-1f21-11ee-ab44-1239d0255272
+    password: 03866530-2cec-11ee-9134-1239d0255272
     skip-cert-verify: true
-    sni: sg6-trojan.bonds.id
+    sni: sg3-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg6-trojan.bonds.id
+        Host: sg3-trojan.bonds.id
     udp: true
-  - name: SG 08
-    server: i.outher.me
+  - name: SG-HE 02 💦
+    server: x.outher.me
     port: 443
     type: trojan
-    password: 070d5580-1f22-11ee-92ca-1239d0255272
+    password: 439c01b0-2cec-11ee-8a02-1239d0255272
     skip-cert-verify: true
-    sni: sg6-trojan.bonds.id
+    sni: sg3-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg6-trojan.bonds.id
+        Host: sg3-trojan.bonds.id
     udp: true
-  - name: SG 09
-    server: i.outher.me
+  - name: SG-HE 03 💦
+    server: x.outher.me
     port: 443
     type: trojan
-    password: 156a3c40-1f22-11ee-a44f-1239d0255272
+    password: 545a1260-2cec-11ee-87be-1239d0255272
     skip-cert-verify: true
-    sni: sg6-trojan.bonds.id
+    sni: sg3-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg6-trojan.bonds.id
+        Host: sg3-trojan.bonds.id
+    udp: true
+  - name: SG-HE 04 💦
+    server: x.outher.me
+    port: 443
+    type: trojan
+    password: 62f01d20-2cec-11ee-b19e-1239d0255272
+    skip-cert-verify: true
+    sni: sg3-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg3-trojan.bonds.id
+    udp: true
+  - name: SG-HE 05 💦
+    server: x.outher.me
+    port: 443
+    type: trojan
+    password: 71668130-2cec-11ee-9b0a-1239d0255272
+    skip-cert-verify: true
+    sni: sg3-trojan.bonds.id
+    network: ws
+    ws-opts:
+      path: /howdy
+      headers:
+        Host: sg3-trojan.bonds.id
     udp: true
   - name: idc7
     server: x.outher.me
@@ -275,22 +249,6 @@ proxies:
       headers:
         Host: mewlon.slowapp.cfd
     udp: true
-  - name: Mewloon
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 901a9547-378f-4dac-99e6-141953c75393
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sgdo1v.nextvpn.cc
-    network: ws
-    ws-opts:
-      path: /worryfree
-      headers:
-        Host: sgdo1v.nextvpn.cc
-    udp: true
   - name: tehgelas
     server: x.outher.me
     port: 80
@@ -306,4 +264,20 @@ proxies:
       path: /vmess
       headers:
         Host: do15.outher.me
+    udp: true
+  - name: Lemino ☣
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 4bf9a927-f5d1-4729-9679-269860fbb464
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: linode-x1.nextvpn.cc
+    network: ws
+    ws-opts:
+      path: /worryfree
+      headers:
+        Host: linode-x1.nextvpn.cc
     udp: true
