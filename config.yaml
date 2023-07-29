@@ -64,10 +64,10 @@ hosts:
   'ota-cache2.googlezip.net': 127.0.0.1
 proxies:
 proxy-groups:
-  - name: "Gratis"
+  - name: "Liveon"
     type: select
     use:
-      - gratis
+      - liveon
   - name: "Vip"
     type: select
     use:
@@ -95,11 +95,11 @@ proxy-providers:
       enable: true
       url: http://cp.cloudflare.com/generate_204
       interval: 86400
-    on:
+  liveon:
     type: http
     behavior: domain
     url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/on.yaml
-    path: ./assets/on.yaml
+    path: ./assets/liveon.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
