@@ -64,6 +64,10 @@ hosts:
   'ota-cache2.googlezip.net': 127.0.0.1
 proxies:
 proxy-groups:
+  - name: "Gratis"
+    type: select
+    use:
+      - gratis
   - name: "Vip"
     type: select
     use:
@@ -87,6 +91,15 @@ proxy-providers:
     behavior: domain
     url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/gratis.yaml
     path: ./assets/edu.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 86400
+    on:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/on.yaml
+    path: ./assets/on.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
