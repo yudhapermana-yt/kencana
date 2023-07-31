@@ -1,9 +1,3 @@
-trojan://36d90950-2529-11ee-bade-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 01
-trojan://581f7960-2529-11ee-8fd7-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 02
-trojan://614eb070-2529-11ee-a313-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 03
-trojan://69b5b860-2529-11ee-843f-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 04
-trojan://73567d20-2529-11ee-bb07-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 05
-trojan://8e479090-2529-11ee-999a-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AMP 06
 #sgamp1
 trojan://a4b833e0-2ceb-11ee-bbaa-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AP 01 🔥
 trojan://adc24930-2ceb-11ee-ab50-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#SG-AP 02 🔥
