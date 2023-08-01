@@ -1,82 +1,4 @@
 proxies:
-  - name: SG-AMP 01
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 36d90950-2529-11ee-bade-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG-AMP 02
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 581f7960-2529-11ee-8fd7-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG-AMP 03
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 614eb070-2529-11ee-a313-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG-AMP 04
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 69b5b860-2529-11ee-843f-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG-AMP 05
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 73567d20-2529-11ee-bb07-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG-AMP 06
-    server: x.outher.me
-    port: 443
-    type: trojan
-    password: 8e479090-2529-11ee-999a-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
   - name: SG-AP 01 🔥
     server: x.outher.me
     port: 443
@@ -280,4 +202,100 @@ proxies:
       path: /worryfree
       headers:
         Host: linode-x1.nextvpn.cc
+    udp: true
+  - name: sshmax-coco8
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 3902287e-adf9-4b6a-8281-f89f4d507a7a
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg-v.sshmax.xyz
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg-v.sshmax.xyz
+    udp: true
+  - name: sshmax-coco9
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: cdf62184-1eaf-4377-8f97-6f031ec19d80
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg1-v.sshmax.xyz
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg1-v.sshmax.xyz
+    udp: true
+  - name: sshmax-coco7
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: b209278c-b8e0-443a-80d3-a375ec9da15d
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: id-v.sshmax.xyz
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: id-v.sshmax.xyz
+    udp: true
+  - name: sshstores-coco2
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 4105cdb9-8dc5-4255-9585-cb0488c934bd
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg5vm.xservs.xyz
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg5vm.xservs.xyz
+    udp: true
+  - name: sshstores-coco3
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 08c40845-50e0-4d63-acbe-7ebc0f69b5ca
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg6vm.xservs.xyz
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg6vm.xservs.xyz
+    udp: true
+  - name: sshstores-coco4
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: a1389770-d3ad-41f5-906a-6e3f04849018
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg7vm.xservs.xyz
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg7vm.xservs.xyz
     udp: true
