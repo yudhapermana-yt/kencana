@@ -1,6 +1,6 @@
 proxies:
   - name: SG-AP 01 🔥
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: a4b833e0-2ceb-11ee-bbaa-1239d0255272
@@ -13,7 +13,7 @@ proxies:
         Host: sg-2.test3.net
     udp: true
   - name: SG-AP 02 🔥
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: adc24930-2ceb-11ee-ab50-1239d0255272
@@ -26,7 +26,7 @@ proxies:
         Host: sg-2.test3.net
     udp: true
   - name: SG-AP 03 🔥
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: b78da6d0-2ceb-11ee-a2bd-1239d0255272
@@ -39,7 +39,7 @@ proxies:
         Host: sg-2.test3.net
     udp: true
   - name: SG-AP 04 🔥
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: c0eee100-2ceb-11ee-b380-1239d0255272
@@ -52,7 +52,7 @@ proxies:
         Host: sg-2.test3.net
     udp: true
   - name: SG-AP 05 🔥
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: cac4fc10-2ceb-11ee-8ed7-1239d0255272
@@ -65,7 +65,7 @@ proxies:
         Host: sg-2.test3.net
     udp: true
   - name: SG-AP 06 🔥
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: d4af4980-2ceb-11ee-b5ed-1239d0255272
@@ -78,7 +78,7 @@ proxies:
         Host: sg-2.test3.net
     udp: true
   - name: SG-AP 07 🔥
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: de44ae70-2ceb-11ee-afa4-1239d0255272
@@ -91,7 +91,7 @@ proxies:
         Host: sg-2.test3.net
     udp: true
   - name: SG-HE 01 💦
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: 03866530-2cec-11ee-9134-1239d0255272
@@ -104,7 +104,7 @@ proxies:
         Host: sg3-trojan.bonds.id
     udp: true
   - name: SG-HE 02 💦
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: 439c01b0-2cec-11ee-8a02-1239d0255272
@@ -117,7 +117,7 @@ proxies:
         Host: sg3-trojan.bonds.id
     udp: true
   - name: SG-HE 03 💦
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: 545a1260-2cec-11ee-87be-1239d0255272
@@ -130,7 +130,7 @@ proxies:
         Host: sg3-trojan.bonds.id
     udp: true
   - name: SG-HE 04 💦
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: 62f01d20-2cec-11ee-b19e-1239d0255272
@@ -143,7 +143,7 @@ proxies:
         Host: sg3-trojan.bonds.id
     udp: true
   - name: SG-HE 05 💦
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 443
     type: trojan
     password: 71668130-2cec-11ee-9b0a-1239d0255272
@@ -156,7 +156,7 @@ proxies:
         Host: sg3-trojan.bonds.id
     udp: true
   - name: idc7
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: 84cfaa5a-3334-4dc4-adeb-1850a853cf7f
@@ -171,24 +171,8 @@ proxies:
       headers:
         Host: mewlon.slowapp.cfd
     udp: true
-  - name: tehgelas
-    server: 172.67.139.111
-    port: 80
-    type: vmess
-    uuid: d845bf27-4573-459d-a990-7a89476bea63
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: do15.outher.me
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: do15.outher.me
-    udp: true
   - name: Lemino ☣
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: 4bf9a927-f5d1-4729-9679-269860fbb464
@@ -204,7 +188,7 @@ proxies:
         Host: linode-x1.nextvpn.cc
     udp: true
   - name: sshmax-coco8
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: 3902287e-adf9-4b6a-8281-f89f4d507a7a
@@ -220,7 +204,7 @@ proxies:
         Host: sg-v.sshmax.xyz
     udp: true
   - name: sshmax-coco9
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: cdf62184-1eaf-4377-8f97-6f031ec19d80
@@ -236,7 +220,7 @@ proxies:
         Host: sg1-v.sshmax.xyz
     udp: true
   - name: sshmax-coco7
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: b209278c-b8e0-443a-80d3-a375ec9da15d
@@ -252,7 +236,7 @@ proxies:
         Host: id-v.sshmax.xyz
     udp: true
   - name: sshstores-coco2
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: 4105cdb9-8dc5-4255-9585-cb0488c934bd
@@ -268,7 +252,7 @@ proxies:
         Host: sg5vm.xservs.xyz
     udp: true
   - name: sshstores-coco3
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: 08c40845-50e0-4d63-acbe-7ebc0f69b5ca
@@ -284,7 +268,7 @@ proxies:
         Host: sg6vm.xservs.xyz
     udp: true
   - name: sshstores-coco4
-    server: 172.67.139.111
+    server: sogood.linefriends.com
     port: 80
     type: vmess
     uuid: a1389770-d3ad-41f5-906a-6e3f04849018
