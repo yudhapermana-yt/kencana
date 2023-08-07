@@ -1,19 +1,19 @@
 proxies:
-  - name: tehgelas
+  - name: choxo
     server: x.outher.me
     port: 80
     type: vmess
-    uuid: d845bf27-4573-459d-a990-7a89476bea63
+    uuid: 81f36c0e-462d-47ed-8dd5-f8c46cb69521
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: do15.outher.me
+    servername: chocho.vpnvip.app
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: do15.outher.me
+        Host: chocho.vpnvip.app
     udp: true
   - name: idc7
     server: x.outher.pw
