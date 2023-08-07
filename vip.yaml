@@ -47,3 +47,19 @@ proxies:
       headers:
         Host: linode-x1.nextvpn.cc
     udp: true
+  - name: 1gbtes
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 14429a80-0acf-4756-a975-d42244d39230
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: chocho.vpnvip.app
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: chocho.vpnvip.app
+    udp: true
