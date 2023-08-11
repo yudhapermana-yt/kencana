@@ -1,9 +1,9 @@
 proxies:
-  - name: SG-A 00
+  - name: SG V 01 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: b0ca8be0-33fe-11ee-8dd6-1239d0255272
+    password: cf060060-37ed-11ee-8f51-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -12,11 +12,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 01
+  - name: SG V 02 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: d02e8280-33fe-11ee-a5d6-1239d0255272
+    password: ecfacfe0-37ed-11ee-b648-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -25,11 +25,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 02
+  - name: SG V 03 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: de360090-33fe-11ee-b56b-1239d0255272
+    password: f9af1f60-37ed-11ee-a3bb-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -38,11 +38,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 03
+  - name: SG V 04 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: e72ead50-33fe-11ee-bbc9-1239d0255272
+    password: 08513c30-37ee-11ee-b25c-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -51,11 +51,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 04
+  - name: SG V 05 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: f2e68f90-33fe-11ee-a2a9-1239d0255272
+    password: 193f2090-37ee-11ee-a6ca-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -64,11 +64,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 05
+  - name: SG V 06 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: fff3c3f0-33fe-11ee-a7ee-1239d0255272
+    password: 26ae6aa0-37ee-11ee-b073-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -77,11 +77,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 06
+  - name: SG V 07 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: 06f98350-3401-11ee-a222-1239d0255272
+    password: 323498d0-37ee-11ee-bfcf-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -90,11 +90,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 07
+  - name: SG V 08 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: 13481490-3401-11ee-9243-1239d0255272
+    password: 44dbf190-37ee-11ee-b079-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -103,11 +103,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 08
+  - name: SG V 09 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: 20c02fa0-3401-11ee-8baf-1239d0255272
+    password: 4ee46820-37ee-11ee-a5a3-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -116,11 +116,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-A 09
+  - name: SG V 00 ☕
     server: x.outher.me
     port: 443
     type: trojan
-    password: 2fad10e0-3401-11ee-9399-1239d0255272
+    password: 596d6da0-37ee-11ee-aaa3-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -129,27 +129,43 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: sshocean-ovh-01
+  - name: sshocean-bv0
     server: x.outher.me
     port: 80
     type: vmess
-    uuid: 2699b057-6643-4f6b-9dcb-245cf6c44c04
+    uuid: dc5bf476-5355-4134-a030-f485305b2a7c
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: sgovh1.v2rayserv.com
+    servername: sg6.v2rayserv.com
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: sgovh1.v2rayserv.com
+        Host: sg6.v2rayserv.com
     udp: true
-  - name: sshocean-ctb-o2
+  - name: sshocean-czn
     server: x.outher.me
     port: 80
     type: vmess
-    uuid: 7e48d410-b5d8-4694-9bd7-f4205f4ae685
+    uuid: 8c161f9e-f783-42f7-811c-be2f22a0a87a
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg1-ctb.v2rayserv.com
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg1-ctb.v2rayserv.com
+    udp: true
+  - name: sshocean-vvz
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: e887710b-c5d3-45cc-81df-47db0a42c87a
     alterId: 0
     cipher: auto
     tls: false
@@ -161,11 +177,27 @@ proxies:
       headers:
         Host: sg2-ctb.v2rayserv.com
     udp: true
-  - name: sshmax-cvb
+  - name: sshocean-nbm
     server: x.outher.me
     port: 80
     type: vmess
-    uuid: 544a5965-d500-41b1-adcf-6417e28039f6
+    uuid: 172af18c-1b27-43c0-957e-2cc141177269
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sgovh1.v2rayserv.com
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sgovh1.v2rayserv.com
+    udp: true
+  - name: sshmax-ggh
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 28c55a3a-7cc2-4207-94cd-3956a5a0dbad
     alterId: 0
     cipher: auto
     tls: false
@@ -177,11 +209,11 @@ proxies:
       headers:
         Host: sg-v.sshmax.xyz
     udp: true
-  - name: sshmax-cnv
+  - name: sshmax-add
     server: x.outher.me
     port: 80
     type: vmess
-    uuid: 1ccbdaf3-976e-4eef-a171-dc042e2d2739
+    uuid: fcba71be-90ca-4de2-b2a1-df22adee5d7c
     alterId: 0
     cipher: auto
     tls: false
@@ -192,148 +224,4 @@ proxies:
       path: /vmess
       headers:
         Host: sg1-v.sshmax.xyz
-    udp: true
-  - name: skyssh-xdc
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 84cfaa5a-3334-4dc4-adeb-1850a853cf7f
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: mewlon.slowapp.cfd
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: mewlon.slowapp.cfd
-    udp: true
-  - name: greenssh-mnm
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 4bf9a927-f5d1-4729-9679-269860fbb464
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: linode-x1.nextvpn.cc
-    network: ws
-    ws-opts:
-      path: /worryfree
-      headers:
-        Host: linode-x1.nextvpn.cc
-    udp: true
-  - name: vpnhack-nbb
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: cd36a99d-b40f-4e77-a2b3-0b3e819204b8
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg2.v2-ray.us
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg2.v2-ray.us
-    udp: true
-  - name: vpnhack-cnm
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 5fe55c19-eb2c-4e27-8ba2-424005414c8f
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.v2-ray.us
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg1.v2-ray.us
-    udp: true
-  - name: realssh-cvx
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 3c1f78fb-540e-4726-83c6-621e972ccf42
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1-vmess.realssh.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg1-vmess.realssh.xyz
-    udp: true
-  - name: realssh-zvb
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 81585635-dd6f-4306-bb20-789c4d5b7b4c
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg2-vmess.realssh.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg2-vmess.realssh.xyz
-    udp: true
-  - name: opentunnel.net-cdd
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5
-    alterId: 16
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: idv-1.openv2ray.com
-    network: ws
-    ws-opts:
-      path: /opentunnel?user=opentunnel.net-cdd
-      headers:
-        Host: idv-1.openv2ray.com
-    udp: true
-  - name: obfs-dny
-    server: x.outher.me
-    port: 443
-    type: vmess
-    uuid: 2ad4c6c6-b0ba-466c-b8d3-df25e725d508
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: x.outher.me
-    network: ws
-    ws-opts:
-      path: /worryfree
-      headers:
-        Host: dynamic-sg1b.obfs.xyz
-    udp: true
-  - name: ntls-asia
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 167d01f0-3404-11ee-b834-205c6d5f5d78
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: asia.oceis.net
-    network: ws
-    ws-opts:
-      path: /vmws
-      headers:
-        Host: asia.oceis.net
     udp: true
