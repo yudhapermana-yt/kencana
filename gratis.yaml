@@ -129,6 +129,22 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
+  - name: rwb
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 81f36c0e-462d-47ed-8dd5-f8c46cb69521
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: chocho.vpnvip.app
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: chocho.vpnvip.app
+    udp: true
   - name: sshocean-bv0
     server: x.outher.me
     port: 80
