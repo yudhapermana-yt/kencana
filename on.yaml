@@ -1,9 +1,9 @@
 proxies:
-  - name: SG-AP 01 🔥
-    server: sogood.linefriends.com
+  - name: SG V 01 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: a4b833e0-2ceb-11ee-bbaa-1239d0255272
+    password: cf060060-37ed-11ee-8f51-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -12,11 +12,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-AP 02 🔥
-    server: sogood.linefriends.com
+  - name: SG V 02 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: adc24930-2ceb-11ee-ab50-1239d0255272
+    password: ecfacfe0-37ed-11ee-b648-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -25,11 +25,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-AP 03 🔥
-    server: sogood.linefriends.com
+  - name: SG V 03 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: b78da6d0-2ceb-11ee-a2bd-1239d0255272
+    password: f9af1f60-37ed-11ee-a3bb-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -38,11 +38,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-AP 04 🔥
-    server: sogood.linefriends.com
+  - name: SG V 04 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: c0eee100-2ceb-11ee-b380-1239d0255272
+    password: 08513c30-37ee-11ee-b25c-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -51,11 +51,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-AP 05 🔥
-    server: sogood.linefriends.com
+  - name: SG V 05 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: cac4fc10-2ceb-11ee-8ed7-1239d0255272
+    password: 193f2090-37ee-11ee-a6ca-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -64,11 +64,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-AP 06 🔥
-    server: sogood.linefriends.com
+  - name: SG V 06 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: d4af4980-2ceb-11ee-b5ed-1239d0255272
+    password: 26ae6aa0-37ee-11ee-b073-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -77,11 +77,11 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-AP 07 🔥
-    server: sogood.linefriends.com
+  - name: SG V 07 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: de44ae70-2ceb-11ee-afa4-1239d0255272
+    password: 323498d0-37ee-11ee-bfcf-1239d0255272
     skip-cert-verify: true
     sni: sg-2.test3.net
     network: ws
@@ -90,108 +90,130 @@ proxies:
       headers:
         Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 01 💦
-    server: sogood.linefriends.com
+  - name: SG V 08 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: 03866530-2cec-11ee-9134-1239d0255272
+    password: 44dbf190-37ee-11ee-b079-1239d0255272
     skip-cert-verify: true
-    sni: sg3-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg3-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 02 💦
-    server: sogood.linefriends.com
+  - name: SG V 09 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: 439c01b0-2cec-11ee-8a02-1239d0255272
+    password: 4ee46820-37ee-11ee-a5a3-1239d0255272
     skip-cert-verify: true
-    sni: sg3-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg3-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 03 💦
-    server: sogood.linefriends.com
+  - name: SG V 00 ☕
+    server: p.outher.me
     port: 443
     type: trojan
-    password: 545a1260-2cec-11ee-87be-1239d0255272
+    password: 596d6da0-37ee-11ee-aaa3-1239d0255272
     skip-cert-verify: true
-    sni: sg3-trojan.bonds.id
+    sni: sg-2.test3.net
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg3-trojan.bonds.id
+        Host: sg-2.test3.net
     udp: true
-  - name: SG-HE 04 💦
-    server: sogood.linefriends.com
-    port: 443
-    type: trojan
-    password: 62f01d20-2cec-11ee-b19e-1239d0255272
-    skip-cert-verify: true
-    sni: sg3-trojan.bonds.id
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg3-trojan.bonds.id
-    udp: true
-  - name: SG-HE 05 💦
-    server: sogood.linefriends.com
-    port: 443
-    type: trojan
-    password: 71668130-2cec-11ee-9b0a-1239d0255272
-    skip-cert-verify: true
-    sni: sg3-trojan.bonds.id
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg3-trojan.bonds.id
-    udp: true
-  - name: idc7
-    server: sogood.linefriends.com
+  - name: rwb
+    server: p.outher.me
     port: 80
     type: vmess
-    uuid: 84cfaa5a-3334-4dc4-adeb-1850a853cf7f
+    uuid: 81f36c0e-462d-47ed-8dd5-f8c46cb69521
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: mewlon.slowapp.cfd
+    servername: chocho.vpnvip.app
     network: ws
     ws-opts:
       path: /vmess
       headers:
-        Host: mewlon.slowapp.cfd
+        Host: chocho.vpnvip.app
     udp: true
-  - name: Lemino ☣
-    server: sogood.linefriends.com
+  - name: sshocean-bv0
+    server: p.outher.me
     port: 80
     type: vmess
-    uuid: 4bf9a927-f5d1-4729-9679-269860fbb464
+    uuid: dc5bf476-5355-4134-a030-f485305b2a7c
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: linode-x1.nextvpn.cc
+    servername: sg6.v2rayserv.com
     network: ws
     ws-opts:
-      path: /worryfree
+      path: /vmess
       headers:
-        Host: linode-x1.nextvpn.cc
+        Host: sg6.v2rayserv.com
     udp: true
-  - name: sshmax-coco8
-    server: sogood.linefriends.com
+  - name: sshocean-czn
+    server: p.outher.me
     port: 80
     type: vmess
-    uuid: 3902287e-adf9-4b6a-8281-f89f4d507a7a
+    uuid: 8c161f9e-f783-42f7-811c-be2f22a0a87a
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg1-ctb.v2rayserv.com
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg1-ctb.v2rayserv.com
+    udp: true
+  - name: sshocean-vvz
+    server: p.outher.me
+    port: 80
+    type: vmess
+    uuid: e887710b-c5d3-45cc-81df-47db0a42c87a
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg2-ctb.v2rayserv.com
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sg2-ctb.v2rayserv.com
+    udp: true
+  - name: sshocean-nbm
+    server: p.outher.me
+    port: 80
+    type: vmess
+    uuid: 172af18c-1b27-43c0-957e-2cc141177269
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sgovh1.v2rayserv.com
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: sgovh1.v2rayserv.com
+    udp: true
+  - name: sshmax-ggh
+    server: p.outher.me
+    port: 80
+    type: vmess
+    uuid: 28c55a3a-7cc2-4207-94cd-3956a5a0dbad
     alterId: 0
     cipher: auto
     tls: false
@@ -203,11 +225,11 @@ proxies:
       headers:
         Host: sg-v.sshmax.xyz
     udp: true
-  - name: sshmax-coco9
-    server: sogood.linefriends.com
+  - name: sshmax-add
+    server: p.outher.me
     port: 80
     type: vmess
-    uuid: cdf62184-1eaf-4377-8f97-6f031ec19d80
+    uuid: fcba71be-90ca-4de2-b2a1-df22adee5d7c
     alterId: 0
     cipher: auto
     tls: false
@@ -218,68 +240,4 @@ proxies:
       path: /vmess
       headers:
         Host: sg1-v.sshmax.xyz
-    udp: true
-  - name: sshmax-coco7
-    server: sogood.linefriends.com
-    port: 80
-    type: vmess
-    uuid: b209278c-b8e0-443a-80d3-a375ec9da15d
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: id-v.sshmax.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: id-v.sshmax.xyz
-    udp: true
-  - name: sshstores-coco2
-    server: sogood.linefriends.com
-    port: 80
-    type: vmess
-    uuid: 4105cdb9-8dc5-4255-9585-cb0488c934bd
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg5vm.xservs.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg5vm.xservs.xyz
-    udp: true
-  - name: sshstores-coco3
-    server: sogood.linefriends.com
-    port: 80
-    type: vmess
-    uuid: 08c40845-50e0-4d63-acbe-7ebc0f69b5ca
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg6vm.xservs.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg6vm.xservs.xyz
-    udp: true
-  - name: sshstores-coco4
-    server: sogood.linefriends.com
-    port: 80
-    type: vmess
-    uuid: a1389770-d3ad-41f5-906a-6e3f04849018
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg7vm.xservs.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg7vm.xservs.xyz
     udp: true
