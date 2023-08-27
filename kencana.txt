@@ -1,11 +1,2 @@
-trojan://c5c7f510-3fdc-11ee-a4df-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#AMP 01
-trojan://d87fe8a0-3fdc-11ee-ad14-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#AMP 02
-trojan://eeba3ad0-3fdc-11ee-8c99-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#AMP 03
-trojan://052ef390-3fdd-11ee-a3c1-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#AMP 04
-trojan://191325f0-3fdd-11ee-89f5-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#AMP 05
-trojan://288f82b0-3fdd-11ee-ac89-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#AMP 06
-trojan://42043e90-3fdd-11ee-adf8-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#AMP 07
-trojan://511099c0-3fdd-11ee-931a-1239d0255272@x.outher.me:443/?sni=sg-2.test3.net&type=ws&host=sg-2.test3.net&path=%2Fhowdy#AMP 08
-vmess://eyJhZGQiOiJ4Lm91dGhlci5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2hvY2hvLnZwbnZpcC5hcHAiLCJpZCI6IjgxZjM2YzBlLTQ2MmQtNDdlZC04ZGQ1LWY4YzQ2Y2I2OTUyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoicndiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ4Lm91dGhlci5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFsYS5pcHR1bm5lbHMuY29tIiwiaWQiOiI1NmFmOWMxNS05YjJhLTQ4NzktYmMwZC05ZTAzMGIxYjU0OTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjgwIiwicHMiOiJJcC12bWVzcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://af298a5c-5fb6-48f8-82f5-754ccc9d77dd@x.outher.me:80?path=%2Fput-any-path-here%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=jala.iptunnels.com&type=ws#ip-vless
+vmess://eyJhZGQiOiJ4Lm91dGhlci5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2hvY2hvLnZwbnZpcC5hcHAiLCJpZCI6IjgxZjM2YzBlLTQ2MmQtNDdlZC04ZGQ1LWY4YzQ2Y2I2OTUyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoicHJtLXJ3YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ4Lm91dGhlci5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFsYS5pcHR1bm5lbHMuY29tIiwiaWQiOiIxMjRhZDQ1Yi1lMzEwLTQxODYtOWE5ZS00ZDBlYjM2ZTRiYjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjgwIiwicHMiOiJJcC12bWVzcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
