@@ -1,243 +1,134 @@
 proxies:
-  - name: SG V 01 ☕
-    server: p.outher.me
+  - name: new-rwb
+    server: circles.asia
     port: 443
-    type: trojan
-    password: cf060060-37ed-11ee-8f51-1239d0255272
+    type: vmess
+    uuid: 9fd463d8-dea1-47b7-bcb3-9d4a6f3267fe
+    alterId: 0
+    cipher: auto
+    tls: true
     skip-cert-verify: true
-    sni: sg-2.test3.net
+    servername: rwb.outher.me
     network: ws
     ws-opts:
-      path: /howdy
+      path: /2c42f3e2a/
       headers:
-        Host: sg-2.test3.net
+        Host: rwb.outher.me
     udp: true
-  - name: SG V 02 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: ecfacfe0-37ed-11ee-b648-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG V 03 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: f9af1f60-37ed-11ee-a3bb-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG V 04 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: 08513c30-37ee-11ee-b25c-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG V 05 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: 193f2090-37ee-11ee-a6ca-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG V 06 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: 26ae6aa0-37ee-11ee-b073-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG V 07 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: 323498d0-37ee-11ee-bfcf-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG V 08 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: 44dbf190-37ee-11ee-b079-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG V 09 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: 4ee46820-37ee-11ee-a5a3-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: SG V 00 ☕
-    server: p.outher.me
-    port: 443
-    type: trojan
-    password: 596d6da0-37ee-11ee-aaa3-1239d0255272
-    skip-cert-verify: true
-    sni: sg-2.test3.net
-    network: ws
-    ws-opts:
-      path: /howdy
-      headers:
-        Host: sg-2.test3.net
-    udp: true
-  - name: rwb
-    server: p.outher.me
+  - name: Ip-vmess 1
+    server: circles.asia
     port: 80
     type: vmess
-    uuid: 81f36c0e-462d-47ed-8dd5-f8c46cb69521
+    uuid: 00f56053-1725-46f8-ac1c-e0b73e821751
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: chocho.vpnvip.app
+    servername: jala.iptunnels.com
     network: ws
     ws-opts:
-      path: /vmess
+      path: /buy-vmess-ws-pm-telegram-at-synricha
       headers:
-        Host: chocho.vpnvip.app
+        Host: jala.iptunnels.com
     udp: true
-  - name: sshocean-bv0
-    server: p.outher.me
+  - name: Ip-vmess 2
+    server: circles.asia
     port: 80
     type: vmess
-    uuid: dc5bf476-5355-4134-a030-f485305b2a7c
+    uuid: f80ffe8c-a469-4e11-ae02-3685f1742839
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: sg6.v2rayserv.com
+    servername: jala.iptunnels.com
     network: ws
     ws-opts:
-      path: /vmess
+      path: /buy-vmess-ws-pm-telegram-at-synricha
       headers:
-        Host: sg6.v2rayserv.com
+        Host: jala.iptunnels.com
     udp: true
-  - name: sshocean-czn
-    server: p.outher.me
+  - name: Ip-vmess 3
+    server: circles.asia
     port: 80
     type: vmess
-    uuid: 8c161f9e-f783-42f7-811c-be2f22a0a87a
+    uuid: c5f756ee-1841-4398-8d58-73b00462c5a4
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: sg1-ctb.v2rayserv.com
+    servername: cpanel.iptunnels.com
     network: ws
     ws-opts:
-      path: /vmess
+      path: /buy-vmess-ws-pm-telegram-at-synricha
       headers:
-        Host: sg1-ctb.v2rayserv.com
+        Host: cpanel.iptunnels.com
     udp: true
-  - name: sshocean-vvz
-    server: p.outher.me
+  - name: Ip-trojan 1
+    server: circles.asia
+    port: 443
+    type: trojan
+    password: b1e353370b2a8e7d
+    skip-cert-verify: true
+    sni: jala.iptunnels.com
+    network: ws
+    ws-opts:
+      path: /buy-trojan-ws-pm-telegram-at-synricha
+      headers:
+        Host: jala.iptunnels.com
+    udp: true
+  - name: Ip-trojan 2
+    server: circles.asia
+    port: 443
+    type: trojan
+    password: 60464fc492e17025
+    skip-cert-verify: true
+    sni: jala.iptunnels.com
+    network: ws
+    ws-opts:
+      path: /buy-trojan-ws-pm-telegram-at-synricha
+      headers:
+        Host: jala.iptunnels.com
+    udp: true
+  - name: Ip-trojan 3
+    server: circles.asia
+    port: 443
+    type: trojan
+    password: 543884dc866b0e85
+    skip-cert-verify: true
+    sni: cpanel.iptunnels.com
+    network: ws
+    ws-opts:
+      path: /buy-trojan-ws-pm-telegram-at-synricha
+      headers:
+        Host: cpanel.iptunnels.com
+    udp: true
+  - name: Ip-vless 1
+    server: circles.asia
     port: 80
-    type: vmess
-    uuid: e887710b-c5d3-45cc-81df-47db0a42c87a
-    alterId: 0
+    type: vless
+    uuid: 787cd2c8-1770-45a8-889a-cb5eb131eae7
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: sg2-ctb.v2rayserv.com
+    servername: jala.iptunnels.com
     network: ws
     ws-opts:
-      path: /vmess
+      path: /buy-vless-ws-pm-telegram-at-synricha
       headers:
-        Host: sg2-ctb.v2rayserv.com
+        Host: jala.iptunnels.com
     udp: true
-  - name: sshocean-nbm
-    server: p.outher.me
+  - name: Ip-vless 2
+    server: circles.asia
     port: 80
-    type: vmess
-    uuid: 172af18c-1b27-43c0-957e-2cc141177269
-    alterId: 0
+    type: vless
+    uuid: 1ee07f5c-2dcb-4641-894b-3da215425f18
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: sgovh1.v2rayserv.com
+    servername: cpanel.iptunnels.com
     network: ws
     ws-opts:
-      path: /vmess
+      path: /buy-vless-ws-pm-telegram-at-synricha
       headers:
-        Host: sgovh1.v2rayserv.com
-    udp: true
-  - name: sshmax-ggh
-    server: p.outher.me
-    port: 80
-    type: vmess
-    uuid: 28c55a3a-7cc2-4207-94cd-3956a5a0dbad
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg-v.sshmax.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg-v.sshmax.xyz
-    udp: true
-  - name: sshmax-add
-    server: p.outher.me
-    port: 80
-    type: vmess
-    uuid: fcba71be-90ca-4de2-b2a1-df22adee5d7c
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1-v.sshmax.xyz
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: sg1-v.sshmax.xyz
+        Host: cpanel.iptunnels.com
     udp: true
