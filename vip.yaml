@@ -1,65 +1,10 @@
-proxies:
-  - name: choxo
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 81f36c0e-462d-47ed-8dd5-f8c46cb69521
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: chocho.vpnvip.app
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: chocho.vpnvip.app
-    udp: true
-  - name: idc7
-    server: x.outher.pw
-    port: 80
-    type: vmess
-    uuid: c8d25d20-47d8-432a-a318-4f2c5709dd53
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: mewlon.slowapp.cfd
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: mewlon.slowapp.cfd
-    udp: true
-  - name: Lemino ☣
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 4bf9a927-f5d1-4729-9679-269860fbb464
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: linode-x1.nextvpn.cc
-    network: ws
-    ws-opts:
-      path: /worryfree
-      headers:
-        Host: linode-x1.nextvpn.cc
-    udp: true
-  - name: 1gbtes
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 14429a80-0acf-4756-a975-d42244d39230
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: chocho.vpnvip.app
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: chocho.vpnvip.app
-    udp: true
+vmess://ew0KICAiYWRkIjogIjE2Mi4xNTkuMTM0LjQyIiwNCiAgImFpZCI6ICIwIiwNCiAgImhvc3QiOiAiamFsYS5pcHR1bm5lbHMuY29tIiwNCiAgImlkIjogIjkxMmY5ZjBlLTRhYTQtNDg0OC05NTUxLTkwMGRmNmYxZWM2MyIsDQogICJuZXQiOiAid3MiLA0KICAicGF0aCI6ICIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwNCiAgInBvcnQiOiAiODAiLA0KICAicHMiOiAiSXAtdm1lc3MgMSIsDQogICJ0bHMiOiAibm9uZSIsDQogICJzbmkiOiAiIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJ2IjogIjIiDQp9
+vmess://ew0KICAiYWRkIjogIjE2Mi4xNTkuMTM0LjQyIiwNCiAgImFpZCI6ICIwIiwNCiAgImhvc3QiOiAiamFsYS5pcHR1bm5lbHMuY29tIiwNCiAgImlkIjogIjYyYTg2M2NiLTZhMWItNDU5NS05OTY1LTBiYmQxZDdhYzFlYyIsDQogICJuZXQiOiAid3MiLA0KICAicGF0aCI6ICIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwNCiAgInBvcnQiOiAiODAiLA0KICAicHMiOiAiSXAtdm1lc3MgMiIsDQogICJ0bHMiOiAibm9uZSIsDQogICJzbmkiOiAiIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJ2IjogIjIiDQp9
+vmess://ew0KICAiYWRkIjogIjE2Mi4xNTkuMTM0LjQyIiwNCiAgImFpZCI6ICIwIiwNCiAgImhvc3QiOiAiY3BhbmVsLmlwdHVubmVscy5jb20iLA0KICAiaWQiOiAiYmJiMjdmNzktNGU3YS00YmNjLTgxMTktM2JiNDkxYzk3M2QwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJwYXRoIjogIi9idXktdm1lc3Mtd3MtcG0tdGVsZWdyYW0tYXQtc3lucmljaGEiLA0KICAicG9ydCI6ICI4MCIsDQogICJwcyI6ICJJcC12bWVzcyAzIiwNCiAgInRscyI6ICJub25lIiwNCiAgInNuaSI6ICIiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInYiOiAiMiINCn0=
+trojan://aa2d6073a1fcae0e@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#Ip-trojan 1
+trojan://bb3657d756f639ea@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#Ip-trojan 2
+trojan://113d0fe6298bb748@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=cpanel.iptunnels.com&type=ws&sni=cpanel.iptunnels.com#Ip-trojan 3
+vless://20dedb52-2daf-44fb-b434-3ca7bfaadd68@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=jala.iptunnels.com&type=ws#Ip-vless 1
+vless://bd86048d-75c1-4606-9e06-a4c6486eef4c@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=cpanel.iptunnels.com&type=ws#Ip-vless 2
+vmess://eyJhZGQiOiJ4Lm91dGhlci5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicnVuY2xvdWQtYmduLmFwYXNpaC5pZCIsImlkIjoiZWIyNjIzZGMtMTk3OS00YmJmLThiMDgtZjkzYWMzYWZhMjllIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J1eS12bWVzcy13cy1wbS10ZWxlZ3JhbS1hdC1zeW5yaWNoYSIsInBvcnQiOiI4MCIsInBzIjoiMXllYXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ4Lm91dGhlci5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicndiLm91dGhlci5tZSIsImlkIjoiZGNkZjE3ZmYtZTkyNi00MzlhLWJmNmMtYTY0YzZiNjRlZjQxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Q4NjgvIiwicG9ydCI6IjQ0MyIsInBzIjoid3VsYWJpbmdfcndiLm91dGhlci5tZSIsInNjeSI6ImF1dG8iLCJzbmkiOiJyd2Iub3V0aGVyLm1lIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
