@@ -6,4 +6,4 @@ trojan://9082604e709e34da@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-a
 trojan://80667ac91d42c525@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#Ip-trojan 2
 trojan://3e8e81621a3157d1@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=cpanel.iptunnels.com&type=ws&sni=cpanel.iptunnels.com#Ip-trojan 3
 vless://e8c4ed5e-8460-40fd-8f75-63af753243e6@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=jala.iptunnels.com&type=ws#Ip-vless 1
-vless://09ad4bf8-2e35-497b-8a74-50c5aabceb01@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=cpanel.iptunnels.com&type=ws#Ip-vless 2
+vless://34f3bb93-6800-4de1-bd22-78d5b882f460@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=cpanel.iptunnels.com&type=ws#Ip-vless 2
