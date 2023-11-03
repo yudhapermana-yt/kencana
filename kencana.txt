@@ -8,7 +8,7 @@ trojan://9082604e709e34da@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-a
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFsYS5pcHR1bm5lbHMuY29tIiwiaWQiOiJhYmE2OTIwYy1kZTUyLTQxOTUtYmJlMC1mNTg0ODEzMDQ1MWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjgwIiwicHMiOiIwMDAyIEphbGEgdm1lc3Mtd3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 #0003 jala vless-ws
-vless://e8c4ed5e-8460-40fd-8f75-63af753243e6@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=jala.iptunnels.com&type=ws#0003+Jala+vless-ws
+vless://2eb2e68b-b1d9-4fd4-acfd-21740a69125a@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=jala.iptunnels.com&type=ws#0003+Jala+vless-ws
 
 #0004 jala trojan-grpc
 trojan://cbb365d22c053656@162.159.138.6:443?mode=gun&security=tls&type=grpc&serviceName=buy-trojan-grpc-pm-telegram-at-synricha&sni=jala.iptunnels.com#0004+Jala+trojan-grpc
