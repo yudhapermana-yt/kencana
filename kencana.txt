@@ -1,21 +1,33 @@
 #rwb-wulabing vmess-ws
 vmess://eyJhZGQiOiJ4Lm91dGhlci5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicndiLm91dGhlci5tZSIsImlkIjoiZGNkZjE3ZmYtZTkyNi00MzlhLWJmNmMtYTY0YzZiNjRlZjQxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Q4NjgvIiwicG9ydCI6IjQ0MyIsInBzIjoid3VsYWJpbmdfcndiLm91dGhlci5tZSIsInNjeSI6ImF1dG8iLCJzbmkiOiJyd2Iub3V0aGVyLm1lIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-#0002 vmess-ws
+#-------------------------#
+
+#0001 jala trojan-ws
+trojan://9082604e709e34da@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#Ip-trojan 1
+
+#0002 jala vmess-ws
 vmess://ew0KICAiYWRkIjogIjE2Mi4xNTkuMTM0LjQyIiwNCiAgImFpZCI6ICIwIiwNCiAgImhvc3QiOiAiamFsYS5pcHR1bm5lbHMuY29tIiwNCiAgImlkIjogImFiYTY5MjBjLWRlNTItNDE5NS1iYmUwLWY1ODQ4MTMwNDUxZCIsDQogICJuZXQiOiAid3MiLA0KICAicGF0aCI6ICIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwNCiAgInBvcnQiOiAiODAiLA0KICAicHMiOiAiSXAtdm1lc3MgMSIsDQogICJ0bHMiOiAibm9uZSIsDQogICJzbmkiOiAiIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJ2IjogIjIiDQp9
+
+#0003 jala vless-ws
+vless://e8c4ed5e-8460-40fd-8f75-63af753243e6@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=jala.iptunnels.com&type=ws#Ip-vless 1
+
+#0005 jala vmess-grcp
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJyYW5kb20iLCJob3N0IjoiIiwiaWQiOiJlMGU0ZjBjYS1kODMwLTQ4YWUtOTcyMy0yNTIxOGFjMmY1M2QiLCJuZXQiOiJncnBjIiwicGF0aCI6ImJ1eS12bWVzcy1ncnBjLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjQ0MyIsInBzIjoiIzAwMDQiLCJzY3kiOiJub25lIiwic25pIjoiamFsYS5pcHR1bm5lbHMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+
+#-------------------------#
+
 vmess://ew0KICAiYWRkIjogIjE2Mi4xNTkuMTM0LjQyIiwNCiAgImFpZCI6ICIwIiwNCiAgImhvc3QiOiAiamFsYS5pcHR1bm5lbHMuY29tIiwNCiAgImlkIjogIjhjMzY0YzhlLTY1MDItNGZlMS05YTJmLTRjMTZlYjVjMzlmOCIsDQogICJuZXQiOiAid3MiLA0KICAicGF0aCI6ICIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwNCiAgInBvcnQiOiAiODAiLA0KICAicHMiOiAiSXAtdm1lc3MgMiIsDQogICJ0bHMiOiAibm9uZSIsDQogICJzbmkiOiAiIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJ2IjogIjIiDQp9
 
 #0011 vmess-ws
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY3BhbmVsLmlwdHVubmVscy5jb20iLCJpZCI6IjYwZDNhOGE2LTI2ODMtNDAxNC04MjAwLWI5N2Y2YmVhODJlZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9idXktdm1lc3Mtd3MtcG0tdGVsZWdyYW0tYXQtc3lucmljaGEiLCJwb3J0IjoiODAiLCJwcyI6IiMwMDExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-#0004 vmess-grcp
-vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJyYW5kb20iLCJob3N0IjoiIiwiaWQiOiJlMGU0ZjBjYS1kODMwLTQ4YWUtOTcyMy0yNTIxOGFjMmY1M2QiLCJuZXQiOiJncnBjIiwicGF0aCI6ImJ1eS12bWVzcy1ncnBjLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjQ0MyIsInBzIjoiIzAwMDQiLCJzY3kiOiJub25lIiwic25pIjoiamFsYS5pcHR1bm5lbHMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
-#0001 trojan-ws
-trojan://9082604e709e34da@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#Ip-trojan 1
+
+
 trojan://80667ac91d42c525@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#Ip-trojan 2
+
 trojan://3e8e81621a3157d1@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=cpanel.iptunnels.com&type=ws&sni=cpanel.iptunnels.com#Ip-trojan 3
 
-#0003 vless-ws
-vless://e8c4ed5e-8460-40fd-8f75-63af753243e6@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=jala.iptunnels.com&type=ws#Ip-vless 1
+
 vless://34f3bb93-6800-4de1-bd22-78d5b882f460@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=cpanel.iptunnels.com&type=ws#Ip-vless 2
