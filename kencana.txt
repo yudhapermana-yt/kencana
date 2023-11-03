@@ -19,11 +19,12 @@ vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJyYW5k
 #0006 jala vless-grpc
 vless://b1d1205c-76d8-46cf-9b8e-6c58e28228f3@162.159.138.6:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=buy-vless-grpc-pm-telegram-at-synricha&sni=jala.iptunnels.com#0006+Jala+vless-grpc
 
+#0007 jala reality
 
 #0008 jala trojan -ws
 trojan://80667ac91d42c525@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#0007+Jala+trojan-ws
 
-#0009 Jala vmess-ws
+#0009 jala vmess-ws
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFsYS5pcHR1bm5lbHMuY29tIiwiaWQiOiIzYmM3M2IzYS01M2FhLTRiNmItYTg5Ny1lMWI4MDY3NzI0ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjgwIiwicHMiOiIwMDA4IEphbGEgdm1lc3Mtd3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 #0010 cpanel trojan-ws
@@ -35,7 +36,8 @@ vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 #0012 vless-ws
 vless://34f3bb93-6800-4de1-bd22-78d5b882f460@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=cpanel.iptunnels.com&type=ws#0012+Cpanel+vless-ws
 
-
+#SET ERROR
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicnVuY2xvdWQtYmduLmFwYXNpaC5pZCIsImlkIjoiZWIyNjIzZGMtMTk3OS00YmJmLThiMDgtZjkzYWMzYWZhMjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjgwIiwicHMiOiJTRVQgRVJST1IiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 
 
