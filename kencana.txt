@@ -1,8 +1,6 @@
 #rwb-wulabing vmess-ws
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzOC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyd2Iub3V0aGVyLm1lIiwiaWQiOiJkY2RmMTdmZi1lOTI2LTQzOWEtYmY2Yy1hNjRjNmI2NGVmNDEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDg2OC8iLCJwb3J0IjoiNDQzIiwicHMiOiIwMDAwIFJ3YiB2bWVzcy13cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJyd2Iub3V0aGVyLm1lIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-#-------------------------#
-
 #0001 jala trojan-ws
 trojan://9082604e709e34da@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#0001+Jala+trojan-ws
 
@@ -18,19 +16,28 @@ trojan://cbb365d22c053656@162.159.138.6:443?mode=gun&security=tls&type=grpc&serv
 #0005 jala vmess-grcp
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJyYW5kb20iLCJob3N0IjoiIiwiaWQiOiJlMGU0ZjBjYS1kODMwLTQ4YWUtOTcyMy0yNTIxOGFjMmY1M2QiLCJuZXQiOiJncnBjIiwicGF0aCI6ImJ1eS12bWVzcy1ncnBjLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjQ0MyIsInBzIjoiMDAwNSBKYWxhIHZtZXNzLXdzIiwic2N5Ijoibm9uZSIsInNuaSI6ImphbGEuaXB0dW5uZWxzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
-#-------------------------#
+#0006 jala vless-grpc
+vless://b1d1205c-76d8-46cf-9b8e-6c58e28228f3@162.159.138.6:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=buy-vless-grpc-pm-telegram-at-synricha&sni=jala.iptunnels.com#0006+Jala+vless-grpc
 
-vmess://ew0KICAiYWRkIjogIjE2Mi4xNTkuMTM0LjQyIiwNCiAgImFpZCI6ICIwIiwNCiAgImhvc3QiOiAiamFsYS5pcHR1bm5lbHMuY29tIiwNCiAgImlkIjogIjhjMzY0YzhlLTY1MDItNGZlMS05YTJmLTRjMTZlYjVjMzlmOCIsDQogICJuZXQiOiAid3MiLA0KICAicGF0aCI6ICIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwNCiAgInBvcnQiOiAiODAiLA0KICAicHMiOiAiSXAtdm1lc3MgMiIsDQogICJ0bHMiOiAibm9uZSIsDQogICJzbmkiOiAiIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJ2IjogIjIiDQp9
+
+#0008 jala trojan -ws
+trojan://80667ac91d42c525@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#0007+Jala+trojan-ws
+
+#0009 Jala vmess-ws
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFsYS5pcHR1bm5lbHMuY29tIiwiaWQiOiIzYmM3M2IzYS01M2FhLTRiNmItYTg5Ny1lMWI4MDY3NzI0ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjgwIiwicHMiOiIwMDA4IEphbGEgdm1lc3Mtd3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+#0010 cpanel trojan-ws
+trojan://3e8e81621a3157d1@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=cpanel.iptunnels.com&type=ws&sni=cpanel.iptunnels.com#0010+Cpanel+trojan-ws
 
 #0011 vmess-ws
-vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY3BhbmVsLmlwdHVubmVscy5jb20iLCJpZCI6IjYwZDNhOGE2LTI2ODMtNDAxNC04MjAwLWI5N2Y2YmVhODJlZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9idXktdm1lc3Mtd3MtcG0tdGVsZWdyYW0tYXQtc3lucmljaGEiLCJwb3J0IjoiODAiLCJwcyI6IiMwMDExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY3BhbmVsLmlwdHVubmVscy5jb20iLCJpZCI6IjYwZDNhOGE2LTI2ODMtNDAxNC04MjAwLWI5N2Y2YmVhODJlZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9idXktdm1lc3Mtd3MtcG0tdGVsZWdyYW0tYXQtc3lucmljaGEiLCJwb3J0IjoiODAiLCJwcyI6IjAwMTEgQ3BhbmVsIHZtZXNzLXdzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+#0012 vless-ws
+vless://34f3bb93-6800-4de1-bd22-78d5b882f460@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=cpanel.iptunnels.com&type=ws#0012+Cpanel+vless-ws
 
 
 
 
-trojan://80667ac91d42c525@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=jala.iptunnels.com&type=ws&sni=jala.iptunnels.com#Ip-trojan 2
-
-trojan://3e8e81621a3157d1@162.159.134.42:443?path=%2Fbuy-trojan-ws-pm-telegram-at-synricha&security=tls&host=cpanel.iptunnels.com&type=ws&sni=cpanel.iptunnels.com#Ip-trojan 3
 
 
-vless://34f3bb93-6800-4de1-bd22-78d5b882f460@162.159.134.42:80?path=%2Fbuy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&host=cpanel.iptunnels.com&type=ws#Ip-vless 2
+
