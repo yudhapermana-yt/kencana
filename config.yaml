@@ -64,18 +64,10 @@ hosts:
   'ota-cache2.googlezip.net': 127.0.0.1
 proxies:
 proxy-groups:
-  - name: "Liveon"
-    type: select
-    use:
-      - liveon
   - name: "Vip"
     type: select
     use:
       - vip
-  - name: "Gratis"
-    type: select
-    use:
-      - gratis
 proxy-providers:
   vip:
     type: http
@@ -86,23 +78,6 @@ proxy-providers:
       enable: true
       url: http://cp.cloudflare.com/generate_204
       interval: 86400
-  gratis:
-    type: http
-    behavior: domain
-    url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/gratis.yaml
-    path: ./assets/edu.yaml
-    health-check:
-      enable: true
-      url: http://cp.cloudflare.com/generate_204
-      interval: 86400
-  liveon:
-    type: http
-    behavior: domain
-    url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/on.yaml
-    path: ./assets/liveon.yaml
-    health-check:
-      enable: true
-      url: http://cp.cloudflare.com/generate_204
-      interval: 86400
+ 
 rules:
   - MATCH,Vip
