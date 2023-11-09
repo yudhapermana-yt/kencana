@@ -72,8 +72,8 @@ proxy-providers:
   vip:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/vip.yaml
-    path: ./assets/vip.yaml
+    url: https://raw.githubusercontent.com/yudhapermana-yt/kencana/main/akun.yaml
+    path: ./assets/akun.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
