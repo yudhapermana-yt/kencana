@@ -1,0 +1,170 @@
+proxies:
+  - name: 0002 Jala vmess-ws
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: d96c5ddd-b789-4bf5-8a4e-43927fb0b382
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: jala.iptunnels.com
+    network: ws
+    ws-opts:
+      path: /buy-vmess-ws-pm-telegram-at-synricha
+      headers:
+        Host: jala.iptunnels.com
+    udp: true
+  - name: 0009 Jala vmess-ws
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: b884ea79-3e84-4916-8bf9-8bc7df45da2f
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: jala.iptunnels.com
+    network: ws
+    ws-opts:
+      path: /buy-vmess-ws-pm-telegram-at-synricha
+      headers:
+        Host: jala.iptunnels.com
+    udp: true
+  - name: 0011 Cpanel vmess-ws
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 21ebb900-cd2f-4615-94b3-cd1bf8cf0069
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: cpanel.iptunnels.com
+    network: ws
+    ws-opts:
+      path: /buy-vmess-ws-pm-telegram-at-synricha
+      headers:
+        Host: cpanel.iptunnels.com
+    udp: true
+  - name: ext1.zxv.biz.id
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: 4dba2b4a-d76f-429c-8547-0fcec7430356
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: ext1.zxv.biz.id
+    udp: true
+  - name: ext54.zxv.biz.id
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: 4dba2b4a-d76f-429c-8547-0fcec7430356
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: ext54.zxv.biz.id
+    udp: true
+  - name: ext55.zxv.biz.id
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: 4dba2b4a-d76f-429c-8547-0fcec7430356
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: ext55.zxv.biz.id
+    udp: true
+  - name: ext56.zxv.biz.id
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: 4dba2b4a-d76f-429c-8547-0fcec7430356
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: ext56.zxv.biz.id
+    udp: true
+  - name: ext57.zxv.biz.id
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: 4dba2b4a-d76f-429c-8547-0fcec7430356
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: ext57.zxv.biz.id
+    udp: true
+  - name: ext58.zxv.biz.id
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: 4dba2b4a-d76f-429c-8547-0fcec7430356
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: ext58.zxv.biz.id
+    udp: true
+  - name: ext59.zxv.biz.id
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: 4dba2b4a-d76f-429c-8547-0fcec7430356
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        Host: ext59.zxv.biz.id
+    udp: true
+  - name: SET ERROR
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: eb2623dc-1979-4bbf-8b08-f93ac3afa29e
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 
+    network: ws
+    ws-opts:
+      path: /buy-vmess-ws-pm-telegram-at-synricha
+      headers:
+        Host: runcloud-bgn.apasih.id
+    udp: true
