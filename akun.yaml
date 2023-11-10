@@ -3,7 +3,7 @@ proxies:
     server: x.outher.me
     port: 80
     type: vmess
-    uuid: d96c5ddd-b789-4bf5-8a4e-43927fb0b382
+    uuid: 3567697f-f0bd-4508-99ee-1599f74dc1d0
     alterId: 0
     cipher: auto
     tls: false
