@@ -4,6 +4,8 @@ vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx2.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx2.ntr.biz.id
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx3.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx3.ntr.biz.id
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx4.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx4.ntr.biz.id
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx5.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx5.ntr.biz.id
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx6.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx6.ntr.biz.id
 
 
 #0099 SET ERROR
