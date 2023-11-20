@@ -23,6 +23,8 @@ vless://4dba2b4a-d76f-429c-8547-0fcec7430356@104.16.51.111:80?path=%2Fhttp%3A%2F
 vless://4dba2b4a-d76f-429c-8547-0fcec7430356@104.16.51.111:80?path=%2Fhttp%3A%2F%2Fext65.zxv.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#ext65.zxv.biz.id
 vless://4dba2b4a-d76f-429c-8547-0fcec7430356@104.16.51.111:80?path=%2Fhttp%3A%2F%2Fext66.zxv.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#ext66.zxv.biz.id
 vless://4dba2b4a-d76f-429c-8547-0fcec7430356@104.16.51.111:80?path=%2Fhttp%3A%2F%2Fext67.zxv.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#ext67.zxv.biz.id
+vless://4dba2b4a-d76f-429c-8547-0fcec7430356@104.16.51.111:80?path=%2Fhttp%3A%2F%2Fext68.zxv.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#ext68.zxv.biz.id
+vless://4dba2b4a-d76f-429c-8547-0fcec7430356@104.16.51.111:80?path=%2Fhttp%3A%2F%2Fext69.zxv.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#ext69.zxv.biz.id
 
 #0099 SET ERROR
 vmess://eyJhZGQiOiIxMDQuMTYuNTEuMTExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZXRhLnpvb20udXMiLCJpZCI6ImViMjYyM2RjLTE5NzktNGJiZi04YjA4LWY5M2FjM2FmYTI5MyIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M6Ly9ydW5jbG91ZC1iZ24uYXBhc2loLmlkL2J1eS12bWVzcy13cy1wbS10ZWxlZ3JhbS1hdC1zeW5yaWNoYSIsInBvcnQiOiI4MCIsInBzIjoiW1NHLU1BWF0gT3V0aGVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
