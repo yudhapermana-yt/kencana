@@ -33,6 +33,11 @@ vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx31.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx31.ntr.biz.id-🇩🇰
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx32.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx32.ntr.biz.id-🇧🇪
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx33.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx33.ntr.biz.id-🇷🇴
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx34.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx34.ntr.biz.id-🇦🇪
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx35.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx35.ntr.biz.id-🇱🇺
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx36.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx36.ntr.biz.id-🇳🇴
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx37.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx37.ntr.biz.id-🇰🇷
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx38.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx38.ntr.biz.id-🇸🇬
 
 #0099 SET ERROR
 vmess://eyJhZGQiOiIxMDQuMTYuNTEuMTExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZXRhLnpvb20udXMiLCJpZCI6ImViMjYyM2RjLTE5NzktNGJiZi04YjA4LWY5M2FjM2FmYTI5MyIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M6Ly9ydW5jbG91ZC1iZ24uYXBhc2loLmlkL2J1eS12bWVzcy13cy1wbS10ZWxlZ3JhbS1hdC1zeW5yaWNoYSIsInBvcnQiOiI4MCIsInBzIjoiW1NHLU1BWF0gT3V0aGVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
