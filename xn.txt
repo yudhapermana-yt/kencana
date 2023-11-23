@@ -38,6 +38,12 @@ vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx36.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx36.ntr.biz.id-🇳🇴
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx37.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx37.ntr.biz.id-🇰🇷
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx38.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx38.ntr.biz.id-🇸🇬
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx39.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx39.ntr.biz.id-🇹🇼
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx40.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx40.ntr.biz.id-🇮🇩
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx41.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx41.ntr.biz.id-🇸🇬
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx42.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx42.ntr.biz.id-🇸🇬
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx43.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx43.ntr.biz.id-🇸🇬
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@104.16.51.111:80?path=https%3A%2F%2Fcx44.ntr.biz.id%2F%3Fed%3D2048&security=none&encryption=none&host=beta.zoom.us&type=ws#cx44.ntr.biz.id-🇭🇰
 
 #0099 SET ERROR
 vmess://eyJhZGQiOiIxMDQuMTYuNTEuMTExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZXRhLnpvb20udXMiLCJpZCI6ImViMjYyM2RjLTE5NzktNGJiZi04YjA4LWY5M2FjM2FmYTI5MyIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M6Ly9ydW5jbG91ZC1iZ24uYXBhc2loLmlkL2J1eS12bWVzcy13cy1wbS10ZWxlZ3JhbS1hdC1zeW5yaWNoYSIsInBvcnQiOiI4MCIsInBzIjoiW1NHLU1BWF0gT3V0aGVyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
