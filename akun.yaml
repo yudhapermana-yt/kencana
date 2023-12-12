@@ -63,3 +63,408 @@ proxies:
       headers:
         Host: runcloud-bgn.apasih.id
     udp: true
+  - name: net1 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net1.ntr.biz.id/?ed=2048
+      headers:
+        Host: net1.ntr.biz.id
+    udp: true
+  - name: net2 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net2.ntr.biz.id/?ed=2048
+      headers:
+        Host: net2.ntr.biz.id
+    udp: true
+  - name: net3 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net3.ntr.biz.id/?ed=2048
+      headers:
+        Host: net3.ntr.biz.id
+    udp: true
+  - name: net4 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net4.ntr.biz.id/?ed=2048
+      headers:
+        Host: net4.ntr.biz.id
+    udp: true
+  - name: net5 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net5.ntr.biz.id/?ed=2048
+      headers:
+        Host: net5.ntr.biz.id
+    udp: true
+  - name: net6 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net6.ntr.biz.id/?ed=2048
+      headers:
+        Host: net6.ntr.biz.id
+    udp: true
+  - name: net7 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net7.ntr.biz.id/?ed=2048
+      headers:
+        Host: net7.ntr.biz.id
+    udp: true
+  - name: net8 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net8.ntr.biz.id/?ed=2048
+      headers:
+        Host: net8.ntr.biz.id
+    udp: true
+  - name: net9 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net9.ntr.biz.id/?ed=2048
+      headers:
+        Host: net9.ntr.biz.id
+    udp: true
+  - name: net10 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net10.ntr.biz.id/?ed=2048
+      headers:
+        Host: net10.ntr.biz.id
+    udp: true
+  - name: net11 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net11.ntr.biz.id/?ed=2048
+      headers:
+        Host: net11.ntr.biz.id
+    udp: true
+  - name: net12 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net12.ntr.biz.id/?ed=2048
+      headers:
+        Host: net12.ntr.biz.id
+    udp: true
+  - name: net13 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net13.ntr.biz.id/?ed=2048
+      headers:
+        Host: net13.ntr.biz.id
+    udp: true
+  - name: net14 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net14.ntr.biz.id/?ed=2048
+      headers:
+        Host: net14.ntr.biz.id
+    udp: true
+  - name: net15 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net15.ntr.biz.id/?ed=2048
+      headers:
+        Host: net15.ntr.biz.id
+    udp: true
+  - name: net16 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net16.ntr.biz.id/?ed=2048
+      headers:
+        Host: net16.ntr.biz.id
+    udp: true
+  - name: net17 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net17.ntr.biz.id/?ed=2048
+      headers:
+        Host: net17.ntr.biz.id
+    udp: true
+  - name: net18 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net18.ntr.biz.id/?ed=2048
+      headers:
+        Host: net18.ntr.biz.id
+    udp: true
+  - name: net19 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net19.ntr.biz.id/?ed=2048
+      headers:
+        Host: net19.ntr.biz.id
+    udp: true
+  - name: net20 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net20.ntr.biz.id/?ed=2048
+      headers:
+        Host: net20.ntr.biz.id
+    udp: true
+  - name: net22 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net21.ntr.biz.id/?ed=2048
+      headers:
+        Host: net21.ntr.biz.id
+    udp: true
+  - name: net23 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net22.ntr.biz.id/?ed=2048
+      headers:
+        Host: net22.ntr.biz.id
+    udp: true
+  - name: net23 Telkomsel (ilmupedia) 2
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net23.ntr.biz.id/?ed=2048
+      headers:
+        Host: net23.ntr.biz.id
+    udp: true
+  - name: net24 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net24.ntr.biz.id/?ed=2048
+      headers:
+        Host: net24.ntr.biz.id
+    udp: true
+  - name: net25 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net25.ntr.biz.id/?ed=2048
+      headers:
+        Host: net25.ntr.biz.id
+    udp: true
+  - name: net26 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net26.ntr.biz.id/?ed=2048
+      headers:
+        Host: net26.ntr.biz.id
+    udp: true
+  - name: net27 Telkomsel (ilmupedia)
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: net1.ntr.biz.id
+    network: ws
+    ws-opts:
+      path: /http://net27.ntr.biz.id/?ed=2048
+      headers:
+        Host: net27.ntr.biz.id
+    udp: true
