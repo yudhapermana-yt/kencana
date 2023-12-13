@@ -1,4 +1,20 @@
 proxies:
+  - name: trial
+    server: x.outher.me
+    port: 80
+    type: vmess
+    uuid: 65febea9-8436-52a6-9c1c-7e42ad333b2e
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: dosg002.xrayku.xyz
+    network: ws
+    ws-opts:
+      path: /vmess
+      headers:
+        Host: dosg002.xrayku.xyz
+    udp: true
   - name: Tirta kencana
     server: x.outher.me
     port: 80
