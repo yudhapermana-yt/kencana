@@ -87,12 +87,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net1.ntr.biz.id/?ed=2048
+      path: /http://net1.zxv.biz.id/?ed=2048
       headers:
-        Host: net1.ntr.biz.id
+        Host: net1.zxv.biz.id
     udp: true
   - name: net2 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -102,12 +102,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net2.ntr.biz.id/?ed=2048
+      path: /http://net2.zxv.biz.id/?ed=2048
       headers:
-        Host: net2.ntr.biz.id
+        Host: net2.zxv.biz.id
     udp: true
   - name: net3 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -117,12 +117,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net3.ntr.biz.id/?ed=2048
+      path: /http://net3.zxv.biz.id/?ed=2048
       headers:
-        Host: net3.ntr.biz.id
+        Host: net3.zxv.biz.id
     udp: true
   - name: net4 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -132,12 +132,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net4.ntr.biz.id/?ed=2048
+      path: /http://net4.zxv.biz.id/?ed=2048
       headers:
-        Host: net4.ntr.biz.id
+        Host: net4.zxv.biz.id
     udp: true
   - name: net5 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -147,12 +147,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net5.ntr.biz.id/?ed=2048
+      path: /http://net5.zxv.biz.id/?ed=2048
       headers:
-        Host: net5.ntr.biz.id
+        Host: net5.zxv.biz.id
     udp: true
   - name: net6 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -162,12 +162,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net6.ntr.biz.id/?ed=2048
+      path: /http://net6.zxv.biz.id/?ed=2048
       headers:
-        Host: net6.ntr.biz.id
+        Host: net6.zxv.biz.id
     udp: true
   - name: net7 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -177,12 +177,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net7.ntr.biz.id/?ed=2048
+      path: /http://net7.zxv.biz.id/?ed=2048
       headers:
-        Host: net7.ntr.biz.id
+        Host: net7.zxv.biz.id
     udp: true
   - name: net8 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -192,12 +192,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net8.ntr.biz.id/?ed=2048
+      path: /http://net8.zxv.biz.id/?ed=2048
       headers:
-        Host: net8.ntr.biz.id
+        Host: net8.zxv.biz.id
     udp: true
   - name: net9 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -207,12 +207,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net9.ntr.biz.id/?ed=2048
+      path: /http://net9.zxv.biz.id/?ed=2048
       headers:
-        Host: net9.ntr.biz.id
+        Host: net9.zxv.biz.id
     udp: true
   - name: net10 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -222,12 +222,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net10.ntr.biz.id/?ed=2048
+      path: /http://net10.zxv.biz.id/?ed=2048
       headers:
-        Host: net10.ntr.biz.id
+        Host: net10.zxv.biz.id
     udp: true
   - name: net11 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -237,12 +237,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net11.ntr.biz.id/?ed=2048
+      path: /http://net11.zxv.biz.id/?ed=2048
       headers:
-        Host: net11.ntr.biz.id
+        Host: net11.zxv.biz.id
     udp: true
   - name: net12 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -252,12 +252,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net12.ntr.biz.id/?ed=2048
+      path: /http://net12.zxv.biz.id/?ed=2048
       headers:
-        Host: net12.ntr.biz.id
+        Host: net12.zxv.biz.id
     udp: true
   - name: net13 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -267,12 +267,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net13.ntr.biz.id/?ed=2048
+      path: /http://net13.zxv.biz.id/?ed=2048
       headers:
-        Host: net13.ntr.biz.id
+        Host: net13.zxv.biz.id
     udp: true
   - name: net14 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -282,12 +282,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net14.ntr.biz.id/?ed=2048
+      path: /http://net14.zxv.biz.id/?ed=2048
       headers:
-        Host: net14.ntr.biz.id
+        Host: net14.zxv.biz.id
     udp: true
   - name: net15 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -297,12 +297,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net15.ntr.biz.id/?ed=2048
+      path: /http://net15.zxv.biz.id/?ed=2048
       headers:
-        Host: net15.ntr.biz.id
+        Host: net15.zxv.biz.id
     udp: true
   - name: net16 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -312,12 +312,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net16.ntr.biz.id/?ed=2048
+      path: /http://net16.zxv.biz.id/?ed=2048
       headers:
-        Host: net16.ntr.biz.id
+        Host: net16.zxv.biz.id
     udp: true
   - name: net17 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -327,12 +327,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net17.ntr.biz.id/?ed=2048
+      path: /http://net17.zxv.biz.id/?ed=2048
       headers:
-        Host: net17.ntr.biz.id
+        Host: net17.zxv.biz.id
     udp: true
   - name: net18 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -342,12 +342,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net18.ntr.biz.id/?ed=2048
+      path: /http://net18.zxv.biz.id/?ed=2048
       headers:
-        Host: net18.ntr.biz.id
+        Host: net18.zxv.biz.id
     udp: true
   - name: net19 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -357,12 +357,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net19.ntr.biz.id/?ed=2048
+      path: /http://net19.zxv.biz.id/?ed=2048
       headers:
-        Host: net19.ntr.biz.id
+        Host: net19.zxv.biz.id
     udp: true
   - name: net20 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -372,12 +372,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net20.ntr.biz.id/?ed=2048
+      path: /http://net20.zxv.biz.id/?ed=2048
       headers:
-        Host: net20.ntr.biz.id
+        Host: net20.zxv.biz.id
     udp: true
   - name: net22 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -387,12 +387,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net21.ntr.biz.id/?ed=2048
+      path: /http://net21.zxv.biz.id/?ed=2048
       headers:
-        Host: net21.ntr.biz.id
+        Host: net21.zxv.biz.id
     udp: true
   - name: net23 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -402,12 +402,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net22.ntr.biz.id/?ed=2048
+      path: /http://net22.zxv.biz.id/?ed=2048
       headers:
-        Host: net22.ntr.biz.id
+        Host: net22.zxv.biz.id
     udp: true
   - name: net23 Telkomsel (ilmupedia) 2
     server: x.outher.me
@@ -417,12 +417,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net23.ntr.biz.id/?ed=2048
+      path: /http://net23.zxv.biz.id/?ed=2048
       headers:
-        Host: net23.ntr.biz.id
+        Host: net23.zxv.biz.id
     udp: true
   - name: net24 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -432,12 +432,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net24.ntr.biz.id/?ed=2048
+      path: /http://net24.zxv.biz.id/?ed=2048
       headers:
-        Host: net24.ntr.biz.id
+        Host: net24.zxv.biz.id
     udp: true
   - name: net25 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -447,12 +447,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net25.ntr.biz.id/?ed=2048
+      path: /http://net25.zxv.biz.id/?ed=2048
       headers:
-        Host: net25.ntr.biz.id
+        Host: net25.zxv.biz.id
     udp: true
   - name: net26 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -462,12 +462,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net26.ntr.biz.id/?ed=2048
+      path: /http://net26.zxv.biz.id/?ed=2048
       headers:
-        Host: net26.ntr.biz.id
+        Host: net26.zxv.biz.id
     udp: true
   - name: net27 Telkomsel (ilmupedia)
     server: x.outher.me
@@ -477,10 +477,10 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: net1.ntr.biz.id
+    servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net27.ntr.biz.id/?ed=2048
+      path: /http://net27.zxv.biz.id/?ed=2048
       headers:
-        Host: net27.ntr.biz.id
+        Host: net27.zxv.biz.id
     udp: true
