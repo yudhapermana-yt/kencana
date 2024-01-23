@@ -11,7 +11,7 @@ proxies:
     servername: sgdo002.xrayku.xyz
     network: ws
     ws-opts:
-      path: /vmess
+      path: /xrayvmess
       headers:
         Host: sgdo002.xrayku.xyz
     udp: true
