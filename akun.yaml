@@ -26,7 +26,7 @@ proxies:
     servername: x1.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x1.merkuri.cloud/?ed=2048
+      path: x1.merkuri.cloud/?ed=2048
       headers:
         Host: x1.merkuri.cloud
     udp: true
@@ -41,7 +41,7 @@ proxies:
     servername: x2.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x2.merkuri.cloud/?ed=2048
+      path: x2.merkuri.cloud/?ed=2048
       headers:
         Host: x2.merkuri.cloud
     udp: true
@@ -56,7 +56,7 @@ proxies:
     servername: x3.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x3.merkuri.cloud/?ed=2048
+      path: x3.merkuri.cloud/?ed=2048
       headers:
         Host: x3.merkuri.cloud
     udp: true
@@ -71,7 +71,7 @@ proxies:
     servername: x4.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x4.merkuri.cloud/?ed=2048
+      path: x4.merkuri.cloud/?ed=2048
       headers:
         Host: x4.merkuri.cloud
     udp: true
@@ -86,7 +86,7 @@ proxies:
     servername: x5.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x5.merkuri.cloud/?ed=2048
+      path: x5.merkuri.cloud/?ed=2048
       headers:
         Host: x5.merkuri.cloud
     udp: true
@@ -101,7 +101,7 @@ proxies:
     servername: x6.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x6.merkuri.cloud/?ed=2048
+      path: x6.merkuri.cloud/?ed=2048
       headers:
         Host: x6.merkuri.cloud
     udp: true
@@ -116,7 +116,7 @@ proxies:
     servername: x7.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x7.merkuri.cloud/?ed=2048
+      path: x7.merkuri.cloud/?ed=2048
       headers:
         Host: x7.merkuri.cloud
     udp: true
@@ -131,7 +131,7 @@ proxies:
     servername: x8.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x8.merkuri.cloud/?ed=2048
+      path: x8.merkuri.cloud/?ed=2048
       headers:
         Host: x8.merkuri.cloud
     udp: true
@@ -146,7 +146,7 @@ proxies:
     servername: x9.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x9.merkuri.cloud/?ed=2048
+      path: x9.merkuri.cloud/?ed=2048
       headers:
         Host: x9.merkuri.cloud
     udp: true
@@ -161,7 +161,7 @@ proxies:
     servername: x10.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x10.merkuri.cloud/?ed=2048
+      path: x10.merkuri.cloud/?ed=2048
       headers:
         Host: x10.merkuri.cloud
     udp: true
@@ -176,7 +176,7 @@ proxies:
     servername: x11.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x11.merkuri.cloud/?ed=2048
+      path: x11.merkuri.cloud/?ed=2048
       headers:
         Host: x11.merkuri.cloud
     udp: true
@@ -191,7 +191,7 @@ proxies:
     servername: x12.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x12.merkuri.cloud/?ed=2048
+      path: x12.merkuri.cloud/?ed=2048
       headers:
         Host: x12.merkuri.cloud
     udp: true
@@ -206,7 +206,7 @@ proxies:
     servername: x13.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x13.merkuri.cloud/?ed=2048
+      path: x13.merkuri.cloud/?ed=2048
       headers:
         Host: x13.merkuri.cloud
     udp: true
@@ -221,7 +221,7 @@ proxies:
     servername: x14.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x14.merkuri.cloud/?ed=2048
+      path: x14.merkuri.cloud/?ed=2048
       headers:
         Host: x14.merkuri.cloud
     udp: true
@@ -236,7 +236,7 @@ proxies:
     servername: x15.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x15.merkuri.cloud/?ed=2048
+      path: x15.merkuri.cloud/?ed=2048
       headers:
         Host: x15.merkuri.cloud
     udp: true
@@ -251,7 +251,7 @@ proxies:
     servername: x16.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x16.merkuri.cloud/?ed=2048
+      path: x16.merkuri.cloud/?ed=2048
       headers:
         Host: x16.merkuri.cloud
     udp: true
@@ -266,7 +266,7 @@ proxies:
     servername: x17.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x17.merkuri.cloud/?ed=2048
+      path: x17.merkuri.cloud/?ed=2048
       headers:
         Host: x17.merkuri.cloud
     udp: true
@@ -281,7 +281,7 @@ proxies:
     servername: x18.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x18.merkuri.cloud/?ed=2048
+      path: x18.merkuri.cloud/?ed=2048
       headers:
         Host: x18.merkuri.cloud
     udp: true
@@ -296,7 +296,7 @@ proxies:
     servername: x19.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x19.merkuri.cloud/?ed=2048
+      path: x19.merkuri.cloud/?ed=2048
       headers:
         Host: x19.merkuri.cloud
     udp: true
@@ -311,7 +311,7 @@ proxies:
     servername: x20.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x20.merkuri.cloud/?ed=2048
+      path: x20.merkuri.cloud/?ed=2048
       headers:
         Host: x20.merkuri.cloud
     udp: true
@@ -326,7 +326,7 @@ proxies:
     servername: x21.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x21.merkuri.cloud/?ed=2048
+      path: x21.merkuri.cloud/?ed=2048
       headers:
         Host: x21.merkuri.cloud
     udp: true
@@ -341,7 +341,7 @@ proxies:
     servername: x22.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x22.merkuri.cloud/?ed=2048
+      path: x22.merkuri.cloud/?ed=2048
       headers:
         Host: x22.merkuri.cloud
     udp: true
@@ -356,7 +356,7 @@ proxies:
     servername: x23.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x23.merkuri.cloud/?ed=2048
+      path: x23.merkuri.cloud/?ed=2048
       headers:
         Host: x23.merkuri.cloud
     udp: true
@@ -371,7 +371,7 @@ proxies:
     servername: x24.merkuri.cloud
     network: ws
     ws-opts:
-      path: /http://x24.merkuri.cloud/?ed=2048
+      path: x24.merkuri.cloud/?ed=2048
       headers:
         Host: x24.merkuri.cloud
     udp: true
@@ -386,7 +386,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net1.zxv.biz.id/?ed=2048
+      path: net1.zxv.biz.id/?ed=2048
       headers:
         Host: net1.zxv.biz.id
     udp: true
@@ -401,7 +401,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net2.zxv.biz.id/?ed=2048
+      path: net2.zxv.biz.id/?ed=2048
       headers:
         Host: net2.zxv.biz.id
     udp: true
@@ -416,7 +416,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net3.zxv.biz.id/?ed=2048
+      path: net3.zxv.biz.id/?ed=2048
       headers:
         Host: net3.zxv.biz.id
     udp: true
@@ -431,7 +431,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net4.zxv.biz.id/?ed=2048
+      path: net4.zxv.biz.id/?ed=2048
       headers:
         Host: net4.zxv.biz.id
     udp: true
@@ -446,7 +446,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net5.zxv.biz.id/?ed=2048
+      path: net5.zxv.biz.id/?ed=2048
       headers:
         Host: net5.zxv.biz.id
     udp: true
@@ -461,7 +461,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net6.zxv.biz.id/?ed=2048
+      path: net6.zxv.biz.id/?ed=2048
       headers:
         Host: net6.zxv.biz.id
     udp: true
@@ -476,7 +476,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net7.zxv.biz.id/?ed=2048
+      path: net7.zxv.biz.id/?ed=2048
       headers:
         Host: net7.zxv.biz.id
     udp: true
@@ -491,7 +491,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net8.zxv.biz.id/?ed=2048
+      path: net8.zxv.biz.id/?ed=2048
       headers:
         Host: net8.zxv.biz.id
     udp: true
@@ -506,7 +506,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net9.zxv.biz.id/?ed=2048
+      path: net9.zxv.biz.id/?ed=2048
       headers:
         Host: net9.zxv.biz.id
     udp: true
@@ -521,7 +521,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net10.zxv.biz.id/?ed=2048
+      path: net10.zxv.biz.id/?ed=2048
       headers:
         Host: net10.zxv.biz.id
     udp: true
@@ -536,7 +536,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net11.zxv.biz.id/?ed=2048
+      path: net11.zxv.biz.id/?ed=2048
       headers:
         Host: net11.zxv.biz.id
     udp: true
@@ -551,7 +551,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net12.zxv.biz.id/?ed=2048
+      path: net12.zxv.biz.id/?ed=2048
       headers:
         Host: net12.zxv.biz.id
     udp: true
@@ -566,7 +566,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net13.zxv.biz.id/?ed=2048
+      path: net13.zxv.biz.id/?ed=2048
       headers:
         Host: net13.zxv.biz.id
     udp: true
@@ -581,7 +581,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net14.zxv.biz.id/?ed=2048
+      path: net14.zxv.biz.id/?ed=2048
       headers:
         Host: net14.zxv.biz.id
     udp: true
@@ -596,7 +596,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net15.zxv.biz.id/?ed=2048
+      path: net15.zxv.biz.id/?ed=2048
       headers:
         Host: net15.zxv.biz.id
     udp: true
@@ -611,7 +611,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net16.zxv.biz.id/?ed=2048
+      path: net16.zxv.biz.id/?ed=2048
       headers:
         Host: net16.zxv.biz.id
     udp: true
@@ -626,7 +626,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net17.zxv.biz.id/?ed=2048
+      path: net17.zxv.biz.id/?ed=2048
       headers:
         Host: net17.zxv.biz.id
     udp: true
@@ -641,7 +641,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net18.zxv.biz.id/?ed=2048
+      path: net18.zxv.biz.id/?ed=2048
       headers:
         Host: net18.zxv.biz.id
     udp: true
@@ -656,7 +656,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net19.zxv.biz.id/?ed=2048
+      path: net19.zxv.biz.id/?ed=2048
       headers:
         Host: net19.zxv.biz.id
     udp: true
@@ -671,7 +671,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net20.zxv.biz.id/?ed=2048
+      path: net20.zxv.biz.id/?ed=2048
       headers:
         Host: net20.zxv.biz.id
     udp: true
@@ -686,7 +686,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net21.zxv.biz.id/?ed=2048
+      path: net21.zxv.biz.id/?ed=2048
       headers:
         Host: net21.zxv.biz.id
     udp: true
@@ -701,7 +701,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net22.zxv.biz.id/?ed=2048
+      path: net22.zxv.biz.id/?ed=2048
       headers:
         Host: net22.zxv.biz.id
     udp: true
@@ -716,7 +716,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net23.zxv.biz.id/?ed=2048
+      path: net23.zxv.biz.id/?ed=2048
       headers:
         Host: net23.zxv.biz.id
     udp: true
@@ -731,7 +731,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net24.zxv.biz.id/?ed=2048
+      path: net24.zxv.biz.id/?ed=2048
       headers:
         Host: net24.zxv.biz.id
     udp: true
@@ -746,7 +746,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net25.zxv.biz.id/?ed=2048
+      path: net25.zxv.biz.id/?ed=2048
       headers:
         Host: net25.zxv.biz.id
     udp: true
@@ -761,7 +761,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net26.zxv.biz.id/?ed=2048
+      path: net26.zxv.biz.id/?ed=2048
       headers:
         Host: net26.zxv.biz.id
     udp: true
@@ -776,7 +776,7 @@ proxies:
     servername: net1.zxv.biz.id
     network: ws
     ws-opts:
-      path: /http://net27.zxv.biz.id/?ed=2048
+      path: net27.zxv.biz.id/?ed=2048
       headers:
         Host: net27.zxv.biz.id
     udp: true
