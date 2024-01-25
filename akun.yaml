@@ -1,36 +1,4 @@
 proxies:
-  - name: trial
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 6b76c0cc-efbe-56f4-a2d7-6c6aedbcdd8c
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sgdo002.xrayku.xyz
-    network: ws
-    ws-opts:
-      path: /xrayvmess
-      headers:
-        Host: sgdo002.xrayku.xyz
-    udp: true
-  - name: Tirta kencana
-    server: x.outher.me
-    port: 80
-    type: vmess
-    uuid: 0c7e7d24-fe00-49ca-8472-46a4c4580b7a
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: rwb2.outher.me
-    network: ws
-    ws-opts:
-      path: /vmess
-      headers:
-        Host: rwb2.outher.me
-    udp: true
   - name: SET ERROR
     server: x.outher.me
     port: 80
@@ -47,37 +15,365 @@ proxies:
       headers:
         Host: runcloud-bgn.apasih.id
     udp: true
-  - name: FLEX_Tirta kencana
-    server: sogood.linefriends.com
+  - name: x1 ID Akamai
+    server: x.outher.me
     port: 80
-    type: vmess
-    uuid: 0c7e7d24-fe00-49ca-8472-46a4c4580b7a
-    alterId: 0
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: rwb2.outher.me
+    servername: x1.merkuri.cloud
     network: ws
     ws-opts:
-      path: /vmess
+      path: /http://x1.merkuri.cloud/?ed=2048
       headers:
-        Host: rwb2.outher.me
+        Host: x1.merkuri.cloud
     udp: true
-  - name: FLEX_SET ERROR
-    server: sogood.linefriends.com
+  - name: x2 SG Amazon
+    server: x.outher.me
     port: 80
-    type: vmess
-    uuid: eb2623dc-1979-4bbf-8b08-f93ac3afa29e
-    alterId: 0
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: 
+    servername: x2.merkuri.cloud
     network: ws
     ws-opts:
-      path: /buy-vmess-ws-pm-telegram-at-synricha
+      path: /http://x2.merkuri.cloud/?ed=2048
       headers:
-        Host: runcloud-bgn.apasih.id
+        Host: x2.merkuri.cloud
+    udp: true
+  - name: x3 SG Google Cloud Platform
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x3.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x3.merkuri.cloud/?ed=2048
+      headers:
+        Host: x3.merkuri.cloud
+    udp: true
+  - name: x4 SG Hostinger
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x4.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x4.merkuri.cloud/?ed=2048
+      headers:
+        Host: x4.merkuri.cloud
+    udp: true
+  - name: x5 GR Datacamp
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x5.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x5.merkuri.cloud/?ed=2048
+      headers:
+        Host: x5.merkuri.cloud
+    udp: true
+  - name: x6 SG OVH
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x6.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x6.merkuri.cloud/?ed=2048
+      headers:
+        Host: x6.merkuri.cloud
+    udp: true
+  - name: x7 SG HostHatch
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x7.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x7.merkuri.cloud/?ed=2048
+      headers:
+        Host: x7.merkuri.cloud
+    udp: true
+  - name: x8 SG Digital Ocean
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x8.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x8.merkuri.cloud/?ed=2048
+      headers:
+        Host: x8.merkuri.cloud
+    udp: true
+  - name: x9 SG Amazon
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x9.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x9.merkuri.cloud/?ed=2048
+      headers:
+        Host: x9.merkuri.cloud
+    udp: true
+  - name: x10 SG Alibaba
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x10.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x10.merkuri.cloud/?ed=2048
+      headers:
+        Host: x10.merkuri.cloud
+    udp: true
+  - name: x11 SG Leaseweb Asia
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x11.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x11.merkuri.cloud/?ed=2048
+      headers:
+        Host: x11.merkuri.cloud
+    udp: true
+  - name: x12 SG Microsoft Azure
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x12.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x12.merkuri.cloud/?ed=2048
+      headers:
+        Host: x12.merkuri.cloud
+    udp: true
+  - name: x13 SG Linode
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x13.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x13.merkuri.cloud/?ed=2048
+      headers:
+        Host: x13.merkuri.cloud
+    udp: true
+  - name: x14 US Hetzner Online
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x14.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x14.merkuri.cloud/?ed=2048
+      headers:
+        Host: x14.merkuri.cloud
+    udp: true
+  - name: x15 US QuadraNet Enterprise
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x15.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x15.merkuri.cloud/?ed=2048
+      headers:
+        Host: x15.merkuri.cloud
+    udp: true
+  - name: x16 US Tencent Cloud
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x16.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x16.merkuri.cloud/?ed=2048
+      headers:
+        Host: x16.merkuri.cloud
+    udp: true
+  - name: x17 US Leaseweb
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x17.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x17.merkuri.cloud/?ed=2048
+      headers:
+        Host: x17.merkuri.cloud
+    udp: true
+  - name: x18 US Limestone Networks
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x18.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x18.merkuri.cloud/?ed=2048
+      headers:
+        Host: x18.merkuri.cloud
+    udp: true
+  - name: x19 US Marist College
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x19.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x19.merkuri.cloud/?ed=2048
+      headers:
+        Host: x19.merkuri.cloud
+    udp: true
+  - name: x20 US Melbicom
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x20.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x20.merkuri.cloud/?ed=2048
+      headers:
+        Host: x20.merkuri.cloud
+    udp: true
+  - name: x21 US Akamai
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x21.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x21.merkuri.cloud/?ed=2048
+      headers:
+        Host: x21.merkuri.cloud
+    udp: true
+  - name: x22 SG Microsoft Azure
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x22.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x22.merkuri.cloud/?ed=2048
+      headers:
+        Host: x22.merkuri.cloud
+    udp: true
+  - name: x23 KR G-core Labs
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x23.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x23.merkuri.cloud/?ed=2048
+      headers:
+        Host: x23.merkuri.cloud
+    udp: true
+  - name: x24 KR Tencent Cloud
+    server: x.outher.me
+    port: 80
+    type: vless
+    uuid: e2443e49-e0ce-4628-808f-76469b53cf66
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: x24.merkuri.cloud
+    network: ws
+    ws-opts:
+      path: /http://x24.merkuri.cloud/?ed=2048
+      headers:
+        Host: x24.merkuri.cloud
     udp: true
   - name: net1 Telkomsel (ilmupedia)
     server: x.outher.me
